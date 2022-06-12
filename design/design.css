@@ -1,1 +1,132 @@
-/* No CSS *//*# sourceMappingURL=design.css.map */
+body {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+header {
+  background: #ffaab8;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.6);
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+header .header-container {
+  width: 1000px;
+  padding: 0 10px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+header .header-container .header-top-left .home-link {
+  text-decoration: none;
+  color: white;
+}
+
+header .header-container .header-top-left .home-link:hover {
+  color: black;
+}
+
+header .header-container .header-top-left .home-link .title-page {
+  margin: 0;
+  padding: 5px 0;
+  font-family: arial;
+}
+
+header .header-container .header-top-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header .header-container .header-top-right .links {
+  padding: 2px 5px;
+}
+
+header .header-container .header-top-right .links:hover {
+  background: rgba(255, 130, 151, 0.5);
+  cursor: pointer;
+}
+
+header .header-container .header-top-right .links a {
+  vertical-align: sub;
+  text-decoration: none;
+  font-family: arial;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.background-img {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 193, 193, 0.683)), to(rgba(255, 192, 203, 0.463))), url(../img/bg.jpg);
+  background-image: linear-gradient(rgba(255, 193, 193, 0.683), rgba(255, 192, 203, 0.463)), url(../img/bg.jpg);
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  inset: 0;
+  z-index: -5;
+}
+
+.nav-info {
+  top: 31.6px;
+  width: 960px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.4);
+  height: 300px;
+  padding: 5px 20px;
+  position: relative;
+  z-index: 19;
+}
+
+.nav-info .title-nav {
+  font-family: arial;
+  color: white;
+  margin: 0;
+}
+
+.nav-info .code-design {
+  width: 220px;
+  height: 190px;
+  border-radius: 20px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 50px;
+  -webkit-box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.79);
+          box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.79);
+  opacity: .7;
+}
+
+.container {
+  background: #ffd5dc;
+  width: 100%;
+  height: 100vh;
+  margin-top: 31px;
+  border-top: 3px solid white;
+}
+
+.container .center {
+  width: 1000px;
+  background: #ffbebe;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.container::-webkit-scrollbar {
+  width: .1rem;
+}
+/*# sourceMappingURL=design.css.map */
