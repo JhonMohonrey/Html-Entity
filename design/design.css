@@ -266,6 +266,92 @@ body {
   display: inline-block;
 }
 
+footer {
+  background: #1d1d1d;
+}
+
+.foot {
+  background: #2d2d2d;
+  width: 1000px;
+  height: 120px;
+  margin: 20px auto 0 auto;
+  position: relative;
+}
+
+.foot .design {
+  margin: 0;
+  color: white;
+  font-family: arial;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  opacity: .7;
+}
+
+.foot .design #year {
+  font-size: 12px;
+}
+
+.foot .social {
+  position: absolute;
+  right: 150px;
+  top: 20px;
+}
+
+.foot .social h5 {
+  margin: 0;
+  font-family: arial;
+  color: white;
+}
+
+.foot .social div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 5px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.foot .social img {
+  margin-top: 5px;
+  border-radius: 50%;
+  width: 30px;
+  padding: 0;
+  background: white;
+  margin: 0;
+  cursor: pointer;
+}
+
+.foot .social a {
+  text-decoration: none;
+  color: white;
+  font-family: arial;
+  margin: 0 8px;
+  font-size: 12px;
+  position: relative;
+}
+
+.foot .social a:hover #g {
+  opacity: 1;
+}
+
+.foot .social #g {
+  position: absolute;
+  background: black;
+  padding: 5px 10px;
+  border-radius: 10px 10px 10px 0;
+  left: 10px;
+  top: -30px;
+  pointer-events: none;
+  opacity: 0;
+  font-weight: 800;
+}
+
 :root {
   --codes-color: rgb(255, 255, 255);
   --header-hover-color: rgba(255, 137, 137, 0.289);
@@ -312,6 +398,9 @@ body {
   }
   .body-container .boxes .codeName {
     font-size: 12px;
+  }
+  .foot {
+    width: 95%;
   }
 }
 
@@ -505,6 +594,22 @@ body {
     letter-spacing: .2px;
     display: block;
     text-align: center;
+  }
+  footer {
+    width: 100%;
+  }
+  .foot {
+    width: 95%;
+    position: relative;
+    height: 150px;
+  }
+  .foot .social {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+  }
+  .foot .social div {
+    position: absolute;
   }
 }
 /*# sourceMappingURL=design.css.map */
