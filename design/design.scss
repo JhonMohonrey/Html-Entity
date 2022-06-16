@@ -249,7 +249,7 @@ footer {
         color: white;
         font-family: arial;
         position: absolute;
-        top: 20px;
+        top: 60%;
         left: 20px;
         opacity: .7;
 
@@ -372,8 +372,8 @@ footer {
 
     .body-container {
         width: 100%;
-        column-gap: 20px;
-        row-gap: 20px;
+        column-gap: 10px;
+        row-gap: 10px;
 
         .boxes {
             width: 30%;
@@ -601,9 +601,15 @@ footer {
         position: relative;
         height: 150px;
 
+        .design {
+            position: absolute;
+            top: 65%;
+            font-size: 10px;
+        }
+
         .social {
             position: absolute;
-            top: 50%;
+            top: 10%;
             left: 10px;
 
             div {

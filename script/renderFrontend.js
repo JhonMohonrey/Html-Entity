@@ -103,6 +103,66 @@ let en = [
     {title: 'BLACK-LETTER CAPITAL R ',  code1: ' U+0211C', code2: '&#x211C; ', 
     code3: '&#8476; ', h1: '&#8476; ', code4: '&real; ',},
 
+    {title: 'DOUBLE-STRUCK CAPITAL R ',  code1: 'U+0211D ', code2: '&#x211D; ', 
+    code3: '&#8477; ', h1: '&#8477; ', code4: '&Ropf; ',},
+
+    {title: 'PRESCRIPTION TAKE ',  code1: 'U+0211E ', code2: '&#x211E; ', 
+    code3: '&#8478; ', h1: '&#8478; ', code4: ' &rx;',},
+
+    {title: 'RESPONSE ',  code1: ' U+0211F', code2: '&#x211F; ', 
+    code3: '&#8479; ', h1: '&#8479; ', code4: ' ',},
+
+    {title: 'SERVICE MARK ',  code1: 'U+02120 ', code2: '&#x2120; ', 
+    code3: ' &#8480;', h1: '&#8480; ', code4: ' ',},
+
+    {title: 'TELEPHONE SIGN ',  code1: 'U+02121 ', code2: '&#x2121; ', 
+    code3: '&#8481; ', h1: '&#8481; ', code4: ' ',},
+
+    {title: 'VERSICLE ',  code1: 'U+02123 ', code2: '&#x2123; ', 
+    code3: ' &#8483;', h1: '&#8483; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK CAPITAL Z ',  code1: ' U+02124', code2: '&#x2124; ', 
+    code3: '&#8484; ', h1: '&#8484; ', code4: '&Zopf; ',},
+
+    {title: 'OUNCE SIGN ',  code1: 'U+02125 ', code2: '&#x2125; ', 
+    code3: ' &#8485;', h1: ' &#8485;', code4: ' ',},
+
+    {title: 'OHM SIGN ',  code1: ' U+02126', code2: '&#x2126; ', 
+    code3: '&#8486; ', h1: '&#8486; ', code4: ' ',},
+
+    {title: 'INVERTED OHM SIGN ',  code1: 'U+02127 ', code2: '&#x2127; ', 
+    code3: '&#8487; ', h1: '&#8487; ', code4: '&mho; ',},
+
+    {title: 'BLACK-LETTER CAPITAL Z ',  code1: 'U+02128 ', code2: '&#x2128; ', 
+    code3: ' &#8488;', h1: '&#8488; ', code4: '&Zfr; ',},
+
+    {title: 'TURNED GREEK SMALL LETTER IOTA ',  code1: 'U+02129 ', code2: ' &#x2129;', 
+    code3: '&#8489; ', h1: '&#8489; ', code4: '&iiota; ',},
+
+    {title: ' KELVIN SIGN',  code1: 'U+0212A ', code2: '&#x212A; ', 
+    code3: '&#8490; ', h1: '&#8490; ', code4: ' ',},
+
+    {title: ' ANGSTROM SIGN',  code1: 'U+0212B ', code2: '&#x212B; ', 
+    code3: '&#8491; ', h1: '&#8491; ', code4: ' ',},
+
+    {title: 'SCRIPT CAPITAL B ',  code1: 'U+0212C ', code2: '&#x212C; ', 
+    code3: ' &#8492;', h1: '&#8492; ', code4: '&bernou; ',},
+
+    {title: ' BLACK-LETTER CAPITAL C',  code1: 'U+0212D ', code2: ' &#x212D;', 
+    code3: '&#8493; ', h1: '&#8493; ', code4: '&Cfr; ',},
+
+    {title: 'ESTIMATED SYMBOL ',  code1: 'U+0212E ', code2: '&#x212E; ', 
+    code3: '&#8494; ', h1: '&#8494; ', code4: ' ',},
+
+    {title: 'SCRIPT SMALL E ',  code1: 'U+0212F ', code2: '&#x212F; ', 
+    code3: ' &#8495;', h1: '&#8495; ', code4: '&escr; ',},
+
+    {title: 'SCRIPT CAPITAL E ',  code1: ' U+02130', code2: '&#x2130; ', 
+    code3: ' &#8496;', h1: '&#8496; ', code4: '&Escr; ',},
+
+    {title: 'SCRIPT CAPITAL F ',  code1: 'U+02131 ', code2: '&#x2131; ', 
+    code3: '&#8497; ', h1: '&#8497; ', code4: ' &Fscr;',},
+
     // {title: ' ',  code1: ' ', code2: ' ', 
     // code3: ' ', h1: ' ', code4: ' ',},
 ]
