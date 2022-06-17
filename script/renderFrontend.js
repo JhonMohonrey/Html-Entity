@@ -163,6 +163,126 @@ let en = [
     {title: 'SCRIPT CAPITAL F ',  code1: 'U+02131 ', code2: '&#x2131; ', 
     code3: '&#8497; ', h1: '&#8497; ', code4: ' &Fscr;',},
 
+    {title: 'TURNED CAPITAL F ',  code1: 'U+02132 ', code2: '&#x2132; ', 
+    code3: '&#8498; ', h1: '&#8498; ', code4: ' ',},
+
+    {title: 'SCRIPT CAPITAL M ',  code1: 'U+02133 ', code2: '&#x2133; ', 
+    code3: '&#8499; ', h1: '&#8499; ', code4: '&Mscr; ',},
+
+    {title: 'SCRIPT SMALL O ',  code1: 'U+02134 ', code2: '&#x2134; ', 
+    code3: '&#8500; ', h1: '&#8500; ', code4: '&oscr; ',},
+
+    {title: 'ALEF SYMBOL ',  code1: 'U+02135 ', code2: '&#x2135; ', 
+    code3: '&#8501; ', h1: ' &#8501;', code4: '&alefsym; ',},
+
+    {title: 'BET SYMBOL ',  code1: 'U+02136 ', code2: '&#x2136; ', 
+    code3: '&#8502; ', h1: '&#8502; ', code4: '&beth; ',},
+
+    {title: 'GIMEL SYMBOL ',  code1: 'U+02137 ', code2: '&#x2137; ', 
+    code3: ' &#8503;', h1: '&#8503; ', code4: '&gimel; ',},
+
+    {title: 'DALET SYMBOL ',  code1: 'U+02138 ', code2: ' &#x2138;', 
+    code3: ' &#8504;', h1: '&#8504; ', code4: '&daleth; ',},
+
+    {title: 'INFORMATION SOURCE ',  code1: 'U+02139 ', code2: ' &#x2139;', 
+    code3: '&#8505; ', h1: '&#8505; ', code4: ' ',},
+
+    {title: 'ROTATED CAPITAL Q ',  code1: 'U+0213A ', code2: '&#x213A; ', 
+    code3: '&#8506; ', h1: '&#8506; ', code4: ' ',},
+
+    {title: 'FACSIMILE SIGN ',  code1: 'U+0213B ', code2: '&#x213B; ', 
+    code3: '&#8507; ', h1: ' &#8507;', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK SMALL PI ',  code1: ' U+0213C', code2: ' &#x213C;', 
+    code3: '&#8508; ', h1: '&#8508; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK SMALL GAMMA ',  code1: 'U+0213D ', code2: ' &#x213D;', 
+    code3: ' &#8509;', h1: '&#8509; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK CAPITAL GAMMA ',  code1: 'U+0213E ', code2: '&#x213E; ', 
+    code3: '&#8510; ', h1: '&#8510; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK CAPITAL PI ',  code1: 'U+0213F ', code2: '&#x213F; ', 
+    code3: '&#8511; ', h1: '&#8511; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK N-ARY SUMMATION ',  code1: 'U+02140 ', code2: '&#x2140; ', 
+    code3: '&#8512; ', h1: '&#8512; ', code4: ' ',},
+
+    {title: ' TURNED SANS-SERIF CAPITAL G',  code1: 'U+02141 ', code2: '&#x2141; ', 
+    code3: '&#8513; ', h1: '&#8513; ', code4: ' ',},
+
+    {title: ' TURNED SANS-SERIF CAPITAL L',  code1: 'U+02142 ', code2: '&#x2142; ', 
+    code3: '&#8514; ', h1: '&#8514; ', code4: ' ',},
+
+    {title: 'REVERSED SANS-SERIF CAPITAL L ',  code1: 'U+02143 ', code2: '&#x2143; ', 
+    code3: '&#8515; ', h1: '&#8515; ', code4: ' ',},
+
+    {title: 'TURNED SANS-SERIF CAPITAL Y ',  code1: 'U+02144 ', code2: '&#x2144; ', 
+    code3: ' &#8516;', h1: '&#8516; ', code4: ' ',},
+
+    {title: 'DOUBLE-STRUCK ITALIC CAPITAL D ',  code1: 'U+02145 ', code2: '&#x2145; ', 
+    code3: '&#8517; ', h1: '&#8517; ', code4: ' &DD;',},
+
+    {title: 'DOUBLE-STRUCK ITALIC SMALL D ',  code1: 'U+02146 ', code2: '&#x2146; ', 
+    code3: '&#8518; ', h1: '&#8518; ', code4: '&dd; ',},
+
+    {title: 'DOUBLE-STRUCK ITALIC SMALL E ',  code1: 'U+02147 ', code2: '&#x2147; ', 
+    code3: '&#8519; ', h1: '&#8519; ', code4: '&ee; ',},
+
+    {title: 'DOUBLE-STRUCK ITALIC SMALL I ',  code1: 'U+02148 ', code2: '&#x2148; ', 
+    code3: '&#8520; ', h1: '&#8520; ', code4: '&ii; ',},
+
+    {title: 'DOUBLE-STRUCK ITALIC SMALL J ',  code1: 'U+02149 ', code2: '&#x2149; ', 
+    code3: ' &#8521;', h1: '&#8521; ', code4: ' ',},
+
+    {title: 'PROPERTY LINE ',  code1: 'U+0214A ', code2: '&#x214A; ', 
+    code3: '&#8522; ', h1: '&#8522; ', code4: ' ',},
+
+    {title: 'TURNED AMPERSAND ',  code1: 'U+0214B ', code2: '&#x214B; ', 
+    code3: ' &#8523;', h1: '&#8523; ', code4: ' ',},
+
+    {title: 'AKTIESELSKAB ',  code1: 'U+0214D ', code2: '&#x214D; ', 
+    code3: '&#8525; ', h1: '&#8525; ', code4: ' ',},
+
+    {title: 'TURNED SMALL F ',  code1: 'U+0214E ', code2: '&#x214E; ', 
+    code3: '&#8526; ', h1: '&#8526; ', code4: ' ',},
+
+    {title: 'BLACK SUN WITH RAYS ',  code1: ' U+02600', code2: '&#x2600; ', 
+    code3: ' &#9728;', h1: '&#9728; ', code4: ' ',},
+
+    {title: 'CLOUD ',  code1: ' U+02601', code2: '&#x2601; ', 
+    code3: '&#9729; ', h1: '&#9729; ', code4: ' ',},
+
+    {title: 'UMBRELLA ',  code1: 'U+02602 ', code2: '&#x2602; ', 
+    code3: '&#9730; ', h1: '&#9730; ', code4: ' ',},
+
+    {title: 'SNOWMAN ',  code1: 'U+02603 ', code2: '&#x2603; ', 
+    code3: '&#9731; ', h1: '&#9731; ', code4: ' ',},
+
+    {title: 'COMET ',  code1: ' U+02604', code2: ' &#x2604;', 
+    code3: '&#9732; ', h1: '&#9732; ', code4: ' ',},
+
+    {title: 'BLACK STAR ',  code1: 'U+02605 ', code2: '&#x2605; ', 
+    code3: '&#9733; ', h1: '&#9733; ', code4: '&starf; ',},
+
+    {title: 'WHITE STAR ',  code1: ' U+02606', code2: '&#x2606; ', 
+    code3: '&#9734; ', h1: '&#9734; ', code4: '&star; ',},
+
+    {title: 'LIGHTNING ',  code1: 'U+02607 ', code2: '&#x2607; ', 
+    code3: '&#9735; ', h1: ' &#9735;', code4: ' ',},
+
+    {title: 'THUNDERSTORM ',  code1: ' U+02608', code2: '&#x2608; ', 
+    code3: '&#9736; ', h1: '&#9736; ', code4: ' ',},
+
+    {title: 'SUN ',  code1: 'U+02609 ', code2: '&#x2609; ', 
+    code3: '&#9737; ', h1: '&#9737; ', code4: ' ',},
+
+    {title: 'ASCENDING NODE ',  code1: 'U+0260A ', code2: '&#x260A; ', 
+    code3: '&#9738; ', h1: ' &#9738;', code4: ' ',},
+
+    {title: 'DESCENDING NODE ',  code1: 'U+0260B ', code2: '&#x260B; ', 
+    code3: '&#9739; ', h1: '&#9739; ', code4: ' ',},
+
     // {title: ' ',  code1: ' ', code2: ' ', 
     // code3: ' ', h1: ' ', code4: ' ',},
 ]
