@@ -283,6 +283,156 @@ let en = [
     {title: 'DESCENDING NODE ',  code1: 'U+0260B ', code2: '&#x260B; ', 
     code3: '&#9739; ', h1: '&#9739; ', code4: ' ',},
 
+    {title: 'CONJUNCTION ',  code1: 'U+0260C ', code2: '&#x260C; ', 
+    code3: '&#9740; ', h1: '&#9740; ', code4: ' ',},
+
+    {title: 'OPPOSITION ',  code1: 'U+0260D ', code2: '&#x260D; ', 
+    code3: '&#9741; ', h1: '&#9741; ', code4: ' ',},
+
+    {title: 'BLACK TELEPHONE ',  code1: 'U+0260E ', code2: '&#x260E; ', 
+    code3: '&#9742; ', h1: '&#9742; ', code4: '&phone; ',},
+
+    {title: 'WHITE TELEPHONE ',  code1: 'U+0260F ', code2: '&#x260F; ', 
+    code3: '&#9743;', h1: '&#9743; ', code4: ' ',},
+
+    {title: 'BALLOT BOX ',  code1: 'U+02610 ', code2: '&#x2610; ', 
+    code3: '&#9744; ', h1: '&#9744; ', code4: ' ',},
+
+    {title: 'BALLOT BOX WITH CHECK ',  code1: ' U+02611', code2: '&#x2611; ', 
+    code3: ' &#9745;', h1: '&#9745; ', code4: ' ',},
+
+    {title: 'BALLOT BOX WITH X ',  code1: 'U+02612 ', code2: '&#x2612; ', 
+    code3: '&#9746; ', h1: '&#9746; ', code4: ' ',},
+
+    {title: 'SALTIRE ',  code1: 'U+02613 ', code2: '&#x2613; ', 
+    code3: '&#9747; ', h1: '&#9747; ', code4: ' ',},
+
+    {title: 'WHITE SHOGI PIECE ',  code1: ' U+02616', code2: '&#x2616; ', 
+    code3: ' &#9750;', h1: '&#9750; ', code4: ' ',},
+
+    {title: 'BLACK SHOGI PIECE ',  code1: 'U+02617 ', code2: '&#x2617; ', 
+    code3: '&#9751; ', h1: '&#9751; ', code4: ' ',},
+
+    {title: 'SHAMROCK ',  code1: 'U+02618 ', code2: ' &#x2618;', 
+    code3: '&#9752; ', h1: '&#9752; ', code4: ' ',},
+
+    {title: ' REVERSED ROTATED FLORAL HEART BULLET',  code1: 'U+02619 ', code2: '&#x2619; ', 
+    code3: '&#9753; ', h1: '&#9753; ', code4: ' ',},
+
+    {title: 'BLACK LEFT POINTING INDEX ',  code1: 'U+0261A ', code2: '&#x261A; ', 
+    code3: '&#9754; ', h1: '&#9754; ', code4: ' ',},
+
+    {title: 'BLACK RIGHT POINTING INDEX ',  code1: 'U+0261B ', code2: '&#x261B; ', 
+    code3: '&#9755; ', h1: '&#9755; ', code4: ' ',},
+
+    {title: 'WHITE LEFT POINTING INDEX ',  code1: 'U+0261C ', code2: ' &#x261C;', 
+    code3: '&#9756; ', h1: '&#9756; ', code4: ' ',},
+
+    {title: 'WHITE UP POINTING INDEX ',  code1: 'U+0261D ', code2: '&#x261D; ', 
+    code3: '&#9757; ', h1: '&#9757; ', code4: ' ',},
+
+    {title: 'WHITE RIGHT POINTING INDEX ',  code1: 'U+0261E ', code2: ' &#x261E;', 
+    code3: '&#9758; ', h1: '&#9758; ', code4: ' ',},
+
+    {title: 'WHITE DOWN POINTING INDEX ',  code1: ' U+0261F', code2: '&#x261F; ', 
+    code3: '&#9759; ', h1: '&#9759; ', code4: ' ',},
+
+    {title: ' SKULL AND CROSSBONES',  code1: ' U+02620', code2: '&#x2620; ', 
+    code3: '&#9760; ', h1: '&#9760; ', code4: ' ',},
+
+    {title: ' CAUTION SIGN',  code1: 'U+02621 ', code2: '&#x2621; ', 
+    code3: '&#9761; ', h1: '&#9761; ', code4: ' ',},
+
+    {title: 'RADIOACTIVE SIGN ',  code1: 'U+02622 ', code2: '&#x2622; ', 
+    code3: ' &#9762;', h1: ' &#9762;', code4: ' ',},
+
+    {title: 'BIOHAZARD SIGN ',  code1: 'U+02623 ', code2: '&#x2623; ', 
+    code3: '&#9763; ', h1: '&#9763; ', code4: ' ',},
+
+    {title: 'CADUCEUS ',  code1: 'U+02624 ', code2: '&#x2624; ', 
+    code3: '&#9764; ', h1: '&#9764; ', code4: ' ',},
+
+    {title: 'ANKH ',  code1: ' U+02625', code2: '&#x2625; ', 
+    code3: '&#9765; ', h1: '&#9765; ', code4: ' ',},
+
+    {title: 'ORTHODOX CROSS ',  code1: 'U+02626 ', code2: '&#x2626; ', 
+    code3: '&#9766; ', h1: '&#9766; ', code4: ' ',},
+
+    {title: 'CHI RHO ',  code1: 'U+02627 ', code2: '&#x2627; ', 
+    code3: '&#9767; ', h1: '&#9767; ', code4: ' ',},
+
+    {title: 'CROSS OF LORRAINE ',  code1: 'U+02628 ', code2: '&#x2628; ', 
+    code3: '&#9768; ', h1: '&#9768; ', code4: ' ',},
+
+    {title: 'CROSS OF JERUSALEM ',  code1: 'U+02629 ', code2: '&#x2629; ', 
+    code3: '&#9769; ', h1: ' &#9769;', code4: ' ',},
+
+    {title: ' STAR AND CRESCENT',  code1: 'U+0262A ', code2: '&#x262A; ', 
+    code3: '&#9770; ', h1: '&#9770; ', code4: ' ',},
+
+    {title: 'FARSI SYMBOL ',  code1: 'U+0262B ', code2: '&#x262B; ', 
+    code3: '&#9771; ', h1: '&#9771; ', code4: ' ',},
+
+    {title: 'ADI SHAKTI ',  code1: 'U+0262C ', code2: '&#x262C; ', 
+    code3: '&#9772; ', h1: '&#9772; ', code4: ' ',},
+
+    {title: 'HAMMER AND SICKLE ',  code1: 'U+0262D ', code2: '&#x262D; ', 
+    code3: '&#9773; ', h1: '&#9773; ', code4: ' ',},
+
+    {title: 'PEACE SYMBOL ',  code1: 'U+0262E ', code2: '&#x262E; ', 
+    code3: '&#9774; ', h1: ' &#9774;', code4: ' ',},
+
+    {title: 'YIN YANG ',  code1: 'U+0262F ', code2: '&#x262F; ', 
+    code3: '&#9775; ', h1: '&#9775; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR HEAVEN ',  code1: 'U+02630 ', code2: '&#x2630; ', 
+    code3: '&#9776; ', h1: '&#9776; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR LAKE ',  code1: 'U+02631 ', code2: '&#x2631; ', 
+    code3: '&#9777; ', h1: '&#9777; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR FIRE ',  code1: 'U+02632 ', code2: '&#x2632; ', 
+    code3: '&#9778; ', h1: '&#9778; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR THUNDER ',  code1: 'U+02633 ', code2: '&#x2633; ', 
+    code3: '&#9779; ', h1: '&#9779; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR WIND ',  code1: 'U+02634 ', code2: '&#x2634; ', 
+    code3: '&#9780; ', h1: '&#9780; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR WATER ',  code1: 'U+02635 ', code2: '&#x2635; ', 
+    code3: '&#9781; ', h1: '&#9781; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR MOUNTAIN ',  code1: 'U+02636 ', code2: '&#x2636; ', 
+    code3: '&#9782; ', h1: '&#9782; ', code4: ' ',},
+
+    {title: 'TRIGRAM FOR EARTH ',  code1: 'U+02637 ', code2: '&#x2637; ', 
+    code3: '&#9783; ', h1: '&#9783; ', code4: ' ',},
+
+    {title: 'WHEEL OF DHARMA ',  code1: 'U+02638 ', code2: '&#x2638; ', 
+    code3: ' &#9784;', h1: '&#9784; ', code4: ' ',},
+
+    {title: 'WHITE FROWNING FACE ',  code1: 'U+02639 ', code2: ' &#x2639;', 
+    code3: '&#9785; ', h1: '&#9785; ', code4: ' ',},
+
+    {title: 'WHITE SMILING FACE ',  code1: 'U+0263A ', code2: '&#x263A; ', 
+    code3: '&#9786; ', h1: ' &#9786;', code4: ' ',},
+
+    {title: 'BLACK SMILING FACE ',  code1: 'U+0263B ', code2: '&#x263B; ', 
+    code3: '&#9787; ', h1: '&#9787; ', code4: ' ',},
+
+    {title: 'WHITE SUN WITH RAYS ',  code1: 'U+0263C ', code2: '&#x263C; ', 
+    code3: '&#9788; ', h1: '&#9788; ', code4: ' ',},
+
+    {title: 'FIRST QUARTER MOON ',  code1: 'U+0263D ', code2: '&#x263D; ', 
+    code3: ' &#9789;', h1: '&#9789; ', code4: ' ',},
+
+    {title: 'LAST QUARTER MOON ',  code1: 'U+0263E ', code2: '&#x263E; ', 
+    code3: '&#9790; ', h1: '&#9790; ', code4: ' ',},
+
+    {title: 'MERCURY ',  code1: ' U+0263F', code2: '&#x263F; ', 
+    code3: '&#9791; ', h1: '&#9791; ', code4: ' ',},
+
     // {title: ' ',  code1: ' ', code2: ' ', 
     // code3: ' ', h1: ' ', code4: ' ',},
 ]
