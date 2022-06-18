@@ -433,6 +433,66 @@ let en = [
     {title: 'MERCURY ',  code1: ' U+0263F', code2: '&#x263F; ', 
     code3: '&#9791; ', h1: '&#9791; ', code4: ' ',},
 
+    {title: 'FEMALE SIGN ',  code1: 'U+02640 ', code2: '&#x2640; ', 
+    code3: '&#9792; ', h1: '&#9792; ', code4: '&female; ',},
+
+    {title: 'EARTH ',  code1: 'U+02641 ', code2: '&#x2641; ', 
+    code3: '&#9793; ', h1: '&#9793; ', code4: ' ',},
+
+    {title: 'MALE SIGN ',  code1: 'U+02642 ', code2: '&#x2642; ', 
+    code3: '&#9794; ', h1: '&#9794; ', code4: ' &male;',},
+
+    {title: ' JUPITER',  code1: 'U+02643 ', code2: '&#x2643; ', 
+    code3: ' &#9795;', h1: '&#9795; ', code4: ' ',},
+
+    {title: 'SATURN ',  code1: 'U+02644 ', code2: '&#x2644; ', 
+    code3: '&#9796; ', h1: ' &#9796;', code4: ' ',},
+
+    {title: 'URANUS ',  code1: 'U+02645 ', code2: '&#x2645; ', 
+    code3: ' &#9797;', h1: '&#9797; ', code4: ' ',},
+
+    {title: 'NEPTUNE ',  code1: 'U+02646 ', code2: '&#x2646; ', 
+    code3: '&#9798; ', h1: '&#9798; ', code4: ' ',},
+
+    {title: 'PLUTO ',  code1: 'U+02647 ', code2: '&#x2647; ', 
+    code3: '&#9799; ', h1: '&#9799; ', code4: ' ',},
+
+    {title: 'WHITE CHESS KING ',  code1: 'U+02654 ', code2: '&#x2654; ', 
+    code3: '&#9812; ', h1: ' &#9812;', code4: ' ',},
+
+    {title: ' WHITE CHESS QUEEN',  code1: 'U+02655 ', code2: '&#x2655; ', 
+    code3: ' &#9813;', h1: ' &#9813;', code4: ' ',},
+
+    {title: 'WHITE CHESS ROOK ',  code1: 'U+02656', code2: '&#x2656;', 
+    code3: '&#9814; ', h1: '&#9814; ', code4: ' ',},
+
+    {title: 'WHITE CHESS BISHOP ',  code1: 'U+02657 ', code2: '&#x2657; ', 
+    code3: '&#9815; ', h1: '&#9815; ', code4: ' ',},
+
+    {title: 'WHITE CHESS KNIGHT ',  code1: 'U+02658 ', code2: '&#x2658; ', 
+    code3: '&#9816; ', h1: '&#9816; ', code4: ' ',},
+
+    {title: 'WHITE CHESS PAWN ',  code1: 'U+02659 ', code2: '&#x2659; ', 
+    code3: '&#9817; ', h1: '&#9817; ', code4: ' ',},
+
+    {title: 'BLACK CHESS KING ',  code1: 'U+0265A ', code2: '&#x265A; ', 
+    code3: '&#9818; ', h1: '&#9818; ', code4: ' ',},
+
+    {title: 'BLACK CHESS QUEEN ',  code1: 'U+0265B ', code2: '&#x265B; ', 
+    code3: '&#9819; ', h1: '&#9819; ', code4: ' ',},
+
+    {title: 'BLACK CHESS ROOK ',  code1: 'U+0265C ', code2: '&#x265C; ', 
+    code3: '&#9820; ', h1: '&#9820; ', code4: ' ',},
+
+    {title: 'BLACK CHESS BISHOP ',  code1: 'U+0265D ', code2: '&#x265D; ', 
+    code3: '&#9821; ', h1: '&#9821; ', code4: ' ',},
+
+    {title: 'BLACK CHESS KNIGHT ',  code1: 'U+0265E ', code2: '&#x265E; ', 
+    code3: '&#9822; ', h1: ' &#9822;', code4: ' ',},
+
+    {title: 'BLACK CHESS PAWN ',  code1: 'U+0265F ', code2: '&#x265F; ', 
+    code3: ' &#9823;', h1: '&#9823; ', code4: ' ',},
+
     // {title: ' ',  code1: ' ', code2: ' ', 
     // code3: ' ', h1: ' ', code4: ' ',},
 ]
