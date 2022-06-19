@@ -493,8 +493,68 @@ let en = [
     {title: 'BLACK CHESS PAWN ',  code1: 'U+0265F ', code2: '&#x265F; ', 
     code3: ' &#9823;', h1: '&#9823; ', code4: ' ',},
 
-    // {title: ' ',  code1: ' ', code2: ' ', 
-    // code3: ' ', h1: ' ', code4: ' ',},
+    {title: 'BLACK SPADE SUIT',  code1: 'U+02660', code2: '&#x2660;', 
+    code3: '&#9824;', h1: '&#9824;', code4: '&spades;',},
+
+    {title: 'WHITE HEART SUIT',  code1: 'U+02661', code2: '&#x2661;', 
+    code3: '&#9825;', h1: '&#9825;', code4: '',},
+
+    {title: 'WHITE DIAMOND SUIT',  code1: 'U+02662', code2: '&#x2662;', 
+    code3: '&#9826;', h1: '&#9826;', code4: '',},
+
+    {title: 'BLACK CLUB SUIT',  code1: 'U+02663', code2: '&#x2663;', 
+    code3: '&#9827;', h1: '&#9827;', code4: '&clubs;',},
+
+    {title: 'WHITE SPADE SUIT',  code1: 'U+02664', code2: '&#x2664;', 
+    code3: '&#9828;', h1: '&#9828;', code4: '',},
+
+    {title: 'BLACK HEART SUIT',  code1: 'U+02665', code2: '&#x2665;', 
+    code3: '&#9829;', h1: '&#9829;', code4: '&hearts;',},
+
+    {title: 'BLACK DIAMOND SUIT',  code1: 'U+02666', code2: '&#x2666;', 
+    code3: '&#9830;', h1: '&#9830;', code4: '&diams;',},
+
+    {title: 'WHITE CLUB SUIT',  code1: 'U+02667', code2: '&#x2667;', 
+    code3: '&#9831;', h1: '&#9831;', code4: '',},
+
+    {title: 'HOT SPRINGS',  code1: 'U+02668', code2: '&#x2668;', 
+    code3: '&#9832;', h1: '&#9832;', code4: '',},
+
+    {title: 'QUARTER NOTE',  code1: 'U+02669', code2: '&#x2669;', 
+    code3: '&#9833;', h1: '&#9833;', code4: '',},
+
+    {title: 'EIGHTH NOTE',  code1: 'U+0266A', code2: '&#x266A;', 
+    code3: '&#9834;', h1: '&#9834;', code4: '&sung;',},
+
+    {title: 'BEAMED EIGHTH NOTES',  code1: 'U+0266B', code2: '&#x266B;', 
+    code3: '&#9835;', h1: '&#9835;', code4: '',},
+
+    {title: 'BEAMED SIXTEENTH NOTES',  code1: 'U+0266C', code2: '&#x266C;', 
+    code3: '&#9836;', h1: '&#9836;', code4: '',},
+
+    {title: 'MUSIC FLAT SIGN',  code1: 'U+0266D', code2: '&#x266D;', 
+    code3: '&#9837;', h1: '&#9837;', code4: '&flat;',},
+
+    {title: 'MUSIC NATURAL SIGN',  code1: 'U+0266E', code2: '&#x266E;', 
+    code3: '&#9838;', h1: '&#9838;', code4: '&natural;',},
+
+    {title: 'MUSIC SHARP SIGN',  code1: 'U+0266F', code2: '&#x266F;', 
+    code3: '&#9839;', h1: '&#9839;', code4: '&sharp;',},
+
+    {title: 'WEST SYRIAC CROSS',  code1: 'U+02670', code2: '&#x2670;', 
+    code3: '&#9840;', h1: '&#9840;', code4: '',},
+
+    {title: 'EAST SYRIAC CROSS',  code1: 'U+02671', code2: '&#x2671;', 
+    code3: '&#9841;', h1: '&#9841;', code4: '',},
+
+    {title: 'UNIVERSAL RECYCLING SYMBOL',  code1: 'U+02672', code2: '&#x2672;', 
+    code3: '&#9842;', h1: '&#9842;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-1 PLASTICS',  code1: 'U+02673', code2: '&#x2673;', 
+    code3: '&#9843;', h1: '&#9843;', code4: '',},
+
+    // {title: '',  code1: '', code2: '', 
+    // code3: '', h1: '', code4: '',},
 ]
 
 render();
