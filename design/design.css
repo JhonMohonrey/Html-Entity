@@ -418,19 +418,23 @@ footer {
     font-size: 25px;
   }
   .header .header-container .menu-btn {
-    width: 35px;
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    width: 30px;
     margin: 0 10px;
+    margin-bottom: 5px;
     display: unset;
   }
   .header .header-container .right-header {
     -webkit-transform: translateY(0%);
             transform: translateY(0%);
-    -webkit-transition: -webkit-transform .2s ease-in-out;
-    transition: -webkit-transform .2s ease-in-out;
-    transition: transform .2s ease-in-out;
-    transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out;
+    -webkit-transition: -webkit-transform .4s ease-in-out;
+    transition: -webkit-transform .4s ease-in-out;
+    transition: transform .4s ease-in-out;
+    transition: transform .4s ease-in-out, -webkit-transform .4s ease-in-out;
     position: fixed;
-    background: #ffc5c5;
+    background: #ffb3bf;
     height: 300px;
     top: 0;
     left: 0;
@@ -455,11 +459,24 @@ footer {
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: end;
+    opacity: .8;
+    -webkit-transition: padding .25s ease-in-out;
+    transition: padding .25s ease-in-out;
   }
   .header .header-container .right-header div a {
     color: white;
     font-weight: bold;
     margin-right: 20px;
+  }
+  .header .header-container .right-header div:hover {
+    -webkit-transition: padding .25s ease-in-out;
+    transition: padding .25s ease-in-out;
+    padding: 0 40px;
+    opacity: 1;
+  }
+  .header .header-container .right-header div:hover a {
+    color: white;
+    font-size: 22px;
   }
   .header .header-container .right-header .exit-btn {
     display: unset;
@@ -477,10 +494,10 @@ footer {
   .header .header-container .right-header-hide {
     -webkit-transform: translateY(-100%);
             transform: translateY(-100%);
-    -webkit-transition: -webkit-transform .2s ease-in-out;
-    transition: -webkit-transform .2s ease-in-out;
-    transition: transform .2s ease-in-out;
-    transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out;
+    -webkit-transition: -webkit-transform .4s ease-in-out;
+    transition: -webkit-transform .4s ease-in-out;
+    transition: transform .4s ease-in-out;
+    transition: transform .4s ease-in-out, -webkit-transform .4s ease-in-out;
     position: fixed;
     background: #ffc5c5;
     height: 300px;
