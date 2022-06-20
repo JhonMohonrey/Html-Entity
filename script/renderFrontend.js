@@ -553,6 +553,66 @@ let en = [
     {title: 'RECYCLING SYMBOL FOR TYPE-1 PLASTICS',  code1: 'U+02673', code2: '&#x2673;', 
     code3: '&#9843;', h1: '&#9843;', code4: '',},
 
+    {title: 'RECYCLING SYMBOL FOR TYPE-2 PLASTICS',  code1: 'U+02674', code2: '&#x2674;', 
+    code3: '&#9844;', h1: '&#9844;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-3 PLASTICS',  code1: 'U+02675', code2: '&#x2675;', 
+    code3: '&#9845;', h1: '&#9845;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-4 PLASTICS',  code1: 'U+02676', code2: '&#x2676;', 
+    code3: '&#9846;', h1: '&#9846;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-5 PLASTICS',  code1: 'U+02677', code2: '&#x2677;', 
+    code3: '&#9847;', h1: '&#9847;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-6 PLASTICS',  code1: 'U+02678', code2: '&#x2678;', 
+    code3: '&#9848;', h1: '&#9848;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR TYPE-7 PLASTICS',  code1: 'U+02679', code2: '&#x2679;', 
+    code3: '&#9849;', h1: '&#9849;', code4: '',},
+
+    {title: 'RECYCLING SYMBOL FOR GENERIC MATERIALS',  code1: 'U+0267A', code2: '&#x267A;', 
+    code3: '&#9850;', h1: '&#9850;', code4: '',},
+
+    {title: 'BLACK UNIVERSAL RECYCLING SYMBOL',  code1: 'U+0267B', code2: '&#x267B;', 
+    code3: '&#9851;', h1: '&#9851;', code4: '',},
+
+    {title: 'RECYCLED PAPER SYMBOL',  code1: 'U+0267C', code2: '&#x267C;', 
+    code3: '&#9852;', h1: '&#9852;', code4: '',},
+
+    {title: 'PARTIALLY-RECYCLED PAPER SYMBOL',  code1: 'U+0267D', code2: '&#x267D;', 
+    code3: '&#9853;', h1: '&#9853;', code4: '',},
+
+    {title: 'PERMANENT PAPER SIGN',  code1: 'U+0267E', code2: '&#x267E;', 
+    code3: '&#9854;', h1: '&#9854;', code4: '',},
+
+    {title: 'DIE FACE-1',  code1: 'U+02680', code2: '&#x2680;', 
+    code3: '&#9856;', h1: '&#9856;', code4: '',},
+
+    {title: 'DIE FACE-2',  code1: 'U+02681', code2: '&#x2681;', 
+    code3: '&#9857;', h1: '&#9857;', code4: '',},
+
+    {title: 'DIE FACE-3',  code1: 'U+02682', code2: '&#x2682;', 
+    code3: '&#9858;', h1: '&#9858;', code4: '',},
+
+    {title: 'DIE FACE-4',  code1: 'U+02683', code2: '&#x2683;', 
+    code3: '&#9859;', h1: '&#9859;', code4: '',},
+
+    {title: 'DIE FACE-5',  code1: 'U+02684', code2: '&#x2684;', 
+    code3: '&#9860;', h1: '&#9860;', code4: '',},
+
+    {title: 'DIE FACE-6',  code1: 'U+02685', code2: '&#x2685;', 
+    code3: '&#9861;', h1: '&#9861;', code4: '',},
+
+    {title: 'WHITE CIRCLE WITH DOT RIGHT',  code1: 'U+02686', code2: '&#x2686;', 
+    code3: '&#9862;', h1: '&#9862;', code4: '',},
+
+    {title: 'WHITE CIRCLE WITH TWO DOTS',  code1: 'U+02687', code2: '&#x2687;', 
+    code3: '&#9863;', h1: '&#9863;', code4: '',},
+
+    {title: 'BLACK CIRCLE WITH WHITE DOT RIGHT',  code1: 'U+02688', code2: '&#x2688;', 
+    code3: '&#9864;', h1: '&#9864;', code4: '',},
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]
