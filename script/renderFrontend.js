@@ -613,6 +613,66 @@ let en = [
     {title: 'BLACK CIRCLE WITH WHITE DOT RIGHT',  code1: 'U+02688', code2: '&#x2688;', 
     code3: '&#9864;', h1: '&#9864;', code4: '',},
 
+    {title: 'BLACK CIRCLE WITH TWO WHITE DOTS',  code1: 'U+02689', code2: '&#x2689;', 
+    code3: '&#9865;', h1: '&#9865;', code4: '',},
+
+    {title: 'MONOGRAM FOR YANG',  code1: 'U+0268A', code2: '&#x268A;', 
+    code3: '&#9866;', h1: '&#9866;', code4: '',},
+
+    {title: 'MONOGRAM FOR YIN',  code1: 'U+0268B', code2: '&#x268B;', 
+    code3: '&#9867;', h1: '&#9867;', code4: '',},
+
+    {title: 'DIGRAM FOR GREATER YANG',  code1: 'U+0268C', code2: '&#x268C;', 
+    code3: '&#9868;', h1: '&#9868;', code4: '',},
+
+    {title: 'DIGRAM FOR LESSER YIN',  code1: 'U+0268D', code2: '&#x268D;', 
+    code3: '&#9869;', h1: '&#9869;', code4: '',},
+
+    {title: 'DIGRAM FOR LESSER YANG',  code1: 'U+0268E', code2: '&#x268E;', 
+    code3: '&#9870;', h1: '&#9870;', code4: '',},
+
+    {title: 'DIGRAM FOR GREATER YIN',  code1: 'U+0268F', code2: '&#x268F;', 
+    code3: '&#9871;', h1: '&#9871;', code4: '',},
+
+    {title: 'WHITE FLAG',  code1: 'U+02690', code2: '&#x2690;', 
+    code3: '&#9872;', h1: '&#9872;', code4: '',},
+
+    {title: 'BLACK FLAG',  code1: 'U+02691', code2: '&#x2691;', 
+    code3: '&#9873;', h1: '&#9873;', code4: '',},
+
+    {title: 'HAMMER AND PICK',  code1: 'U+02692', code2: '&#x2692;', 
+    code3: '&#9874;', h1: '&#9874;', code4: '',},
+
+    {title: 'CROSSED SWORDS',  code1: 'U+02694', code2: '&#x2694;', 
+    code3: '&#9876;', h1: '&#9876;', code4: '',},
+
+    {title: 'STAFF OF AESCULAPIUS',  code1: 'U+02695', code2: '&#x2695;', 
+    code3: '&#9877;', h1: '&#9877;', code4: '',},
+
+    {title: 'SCALES',  code1: 'U+02696', code2: '&#x2696;', 
+    code3: '&#9878;', h1: '&#9878;', code4: '',},
+
+    {title: 'ALEMBIC',  code1: 'U+02697', code2: '&#x2697;', 
+    code3: '&#9879;', h1: '&#9879;', code4: '',},
+
+    {title: 'FLOWER',  code1: 'U+02698', code2: '&#x2698;', 
+    code3: '&#9880;', h1: '&#9880;', code4: '',},
+
+    {title: 'GEAR',  code1: 'U+02699', code2: '&#x2699;', 
+    code3: '&#9881;', h1: '&#9881;', code4: '',},
+
+    {title: 'STAFF OF HERMES',  code1: 'U+0269A', code2: '&#x269A;', 
+    code3: '&#9882;', h1: '&#9882;', code4: '',},
+
+    {title: 'ATOM SYMBOL',  code1: 'U+0269B', code2: '&#x269B;', 
+    code3: '&#9883;', h1: '&#9883;', code4: '',},
+
+    {title: 'FLEUR-DE-LIS',  code1: 'U+0269C', code2: '&#x269C;', 
+    code3: '&#9884;', h1: '&#9884;', code4: '',},
+
+    {title: 'OUTLINED WHITE STAR',  code1: 'U+0269D', code2: '&#x269D;', 
+    code3: '&#9885;', h1: '&#9885;', code4: '',},
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]
