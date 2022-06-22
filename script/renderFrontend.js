@@ -673,6 +673,126 @@ let en = [
     {title: 'OUTLINED WHITE STAR',  code1: 'U+0269D', code2: '&#x269D;', 
     code3: '&#9885;', h1: '&#9885;', code4: '',},
 
+    {title: 'THREE LINES CONVERGING RIGHT',  code1: 'U+0269E', code2: '&#x269E;', 
+    code3: '&#9886;', h1: '&#9886;', code4: '',},
+
+    {title: 'THREE LINES CONVERGING LEFT',  code1: 'U+0269F', code2: '&#x269F;', 
+    code3: '&#9887;', h1: '&#9887;', code4: '',},
+
+    {title: 'WARNING SIGN',  code1: 'U+026A0', code2: '&#x26A0;', 
+    code3: '&#9888;', h1: '&#9888;', code4: '',},
+
+    {title: 'DOUBLED FEMALE SIGN',  code1: 'U+026A2', code2: '&#x26A2;', 
+    code3: '&#9890;', h1: '&#9890;', code4: '',},
+
+    {title: 'DOUBLED MALE SIGN',  code1: 'U+026A3', code2: '&#x26A3;', 
+    code3: '&#9891;', h1: '&#9891;', code4: '',},
+
+    {title: 'INTERLOCKED FEMALE AND MALE SIGN',  code1: 'U+026A4', code2: '&#x26A4;', 
+    code3: '&#9892;', h1: '&#9892;', code4: '',},
+
+    {title: 'MALE AND FEMALE SIGN',  code1: 'U+026A5', code2: '&#x26A5;', 
+    code3: '&#9893;', h1: '&#9893;', code4: '',},
+
+    {title: 'MALE WITH STROKE SIGN',  code1: 'U+026A6', code2: '&#x26A6;', 
+    code3: '&#9894;', h1: '&#9894;', code4: '',},
+
+    {title: 'MALE WITH STROKE AND MALE AND FEMALE SIGN',  code1: 'U+026A7', code2: '&#x26A7;', 
+    code3: '&#9895;', h1: '&#9895;', code4: '',},
+
+    {title: 'VERTICAL MALE WITH STROKE SIGN',  code1: 'U+026A8', code2: '&#x26A8;', 
+    code3: '&#9896;', h1: '&#9896;', code4: '',},
+
+    {title: 'HORIZONTAL MALE WITH STROKE SIGN',  code1: 'U+026A9', code2: '&#x26A9;', 
+    code3: '&#9897;', h1: '&#9897;', code4: '',},
+
+    {title: 'MEDIUM SMALL WHITE CIRCLE',  code1: 'U+026AC', code2: '&#x26AC;', 
+    code3: '&#9900;', h1: '&#9900;', code4: '',},
+
+    {title: 'MARRIAGE SYMBOL',  code1: 'U+026AD', code2: '&#x26AD;', 
+    code3: '&#9901;', h1: '&#9901;', code4: '',},
+
+    {title: 'DIVORCE SYMBOL',  code1: 'U+026AE', code2: '&#x26AE;', 
+    code3: '&#9902;', h1: '&#9902;', code4: '',},
+
+    {title: 'UNMARRIED PARTNERSHIP SYMBOL',  code1: 'U+026AF', code2: '&#x26AF;', 
+    code3: '&#9903;', h1: '&#9903;', code4: '',},
+
+    {title: 'COFFIN',  code1: 'U+026B0', code2: '&#x26B0;', 
+    code3: '&#9904;', h1: '&#9904;', code4: '',},
+
+    {title: 'FUNERAL URN',  code1: 'U+026B1', code2: '&#x26B1;', 
+    code3: '&#9905;', h1: '&#9905;', code4: '',},
+
+    {title: 'NEUTER',  code1: 'U+026B2', code2: '&#x26B2;', 
+    code3: '&#9906;', h1: '&#9906;', code4: '',},
+
+    {title: 'BASEBALL',  code1: 'U+026BE', code2: '&#x26BE;', 
+    code3: '&#9918;', h1: '&#9918;', code4: '',},
+
+    {title: 'ASTRONOMICAL SYMBOL FOR URANUS',  code1: 'U+026E2', code2: '&#x26E2;', 
+    code3: '&#9954;', h1: '&#9954;', code4: '',},
+
+    {title: 'UPPER BLADE SCISSORS',  code1: 'U+02701', code2: '&#x2701;', 
+    code3: '&#9985;', h1: '&#9985;', code4: '',},
+
+    {title: 'BLACK SCISSORS',  code1: 'U+02702', code2: '&#x2702;', 
+    code3: '&#9986;', h1: '&#9986;', code4: '',},
+
+    {title: 'LOWER BLADE SCISSORS',  code1: 'U+02703', code2: '&#x2703;', 
+    code3: '&#9987;', h1: '&#9987;', code4: '',},
+
+    {title: 'WHITE SCISSORS',  code1: 'U+02704', code2: '&#x2704;', 
+    code3: '&#9988;', h1: '&#9988;', code4: '',},
+
+    {title: 'TELEPHONE LOCATION SIGN',  code1: 'U+02706', code2: '&#x2706;', 
+    code3: '&#9990;', h1: '&#9990;', code4: '',},
+
+    {title: 'TAPE DRIVE',  code1: 'U+02707', code2: '&#x2707;', 
+    code3: '&#9991;', h1: '&#9991;', code4: '',},
+
+    {title: 'AIRPLANE',  code1: 'U+02708', code2: '&#x2708;', 
+    code3: '&#9992;', h1: '&#9992;', code4: '',},
+
+    {title: 'ENVELOPE',  code1: 'U+02709', code2: '&#x2709;', 
+    code3: '&#9993;', h1: '&#9993;', code4: '',},
+
+    {title: 'VICTORY HAND',  code1: 'U+0270C', code2: '&#x270C;', 
+    code3: '&#9996;', h1: '&#9996;', code4: '',},
+
+    {title: 'WRITING HAND',  code1: 'U+0270D', code2: '&#x270D;', 
+    code3: '&#9997;', h1: '&#9997;', code4: '',},
+
+    {title: 'LOWER RIGHT PENCIL',  code1: 'U+0270E', code2: '&#x270E;', 
+    code3: '&#9998;', h1: '&#9998;', code4: '',},
+
+    {title: 'PENCIL',  code1: 'U+0270F', code2: '&#x270F;', 
+    code3: '&#9999;', h1: '&#9999;', code4: '',},
+
+    {title: 'UPPER RIGHT PENCIL',  code1: 'U+02710', code2: '&#x2710;', 
+    code3: '&#10000;', h1: '&#10000;', code4: '',},
+
+    {title: 'WHITE NIB',  code1: 'U+02711', code2: '&#x2711;', 
+    code3: '&#10001;', h1: '&#10001;', code4: '',},
+
+    {title: 'BLACK NIB',  code1: 'U+02712', code2: '&#x2712;', 
+    code3: '&#10002;', h1: '&#10002;', code4: '',},
+
+    {title: 'CHECK MARK',  code1: 'U+02713', code2: '&#x2713;', 
+    code3: '&#10003;', h1: '&#10003;', code4: '&check;',},
+
+    {title: 'HEAVY CHECK MARK',  code1: 'U+02714', code2: '&#x2714;', 
+    code3: '&#10004;', h1: '&#10004;', code4: '',},
+
+    {title: 'MULTIPLICATION X',  code1: 'U+02715', code2: '&#x2715;', 
+    code3: '&#10005;', h1: '&#10005;', code4: '',},
+
+    {title: 'HEAVY MULTIPLICATION X',  code1: 'U+02716', code2: '&#x2716;', 
+    code3: '&#10006;', h1: '&#10006;', code4: '',},
+
+    {title: 'BALLOT X',  code1: 'U+02717', code2: '&#x2717;', 
+    code3: '&#10007;', h1: '&#10007;', code4: '&cross;',},
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]
