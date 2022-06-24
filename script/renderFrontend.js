@@ -973,6 +973,201 @@ let en = [
     {title: 'HEAVY VERTICAL BAR',  code1: 'U+0275A', code2: '&#x275A;', 
     code3: '&#10074;', h1: '&#10074;', code4: '',},
 
+    {title: 'HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT',  code1: 'U+0275B', code2: '&#x275B;', 
+    code3: '&#10075;', h1: '&#10075;', code4: '',},
+
+    {title: 'HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT',  code1: 'U+0275C', code2: '&#x275C;', 
+    code3: '&#10076;', h1: '&#10076;', code4: '',},
+
+    {title: 'HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT',  code1: 'U+0275D', code2: '&#x275D;', 
+    code3: '&#10077;', h1: '&#10077;', code4: '',},
+
+    {title: 'HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT',  code1: 'U+0275E', code2: '&#x275E;', 
+    code3: '&#10078;', h1: '&#10078;', code4: '',},
+
+    {title: 'CURVED STEM PARAGRAPH SIGN ORNAMENT',  code1: 'U+02761', code2: '&#x2761;', 
+    code3: '&#10081;', h1: '&#10081;', code4: '',},
+
+    {title: 'HEAVY EXCLAMATION MARK ORNAMENT',  code1: 'U+02762', code2: '&#x2762;', 
+    code3: '&#10082;', h1: '&#10082;', code4: '',},
+
+    {title: 'HEAVY HEART EXCLAMATION MARK ORNAMENT',  code1: 'U+02763', code2: '&#x2763;', 
+    code3: '&#10083;', h1: '&#10083;', code4: '',},
+
+    {title: 'HEAVY BLACK HEART',  code1: 'U+02764', code2: '&#x2764;', 
+    code3: '&#10084;', h1: '&#10084;', code4: '',},
+
+    {title: 'ROTATED HEAVY BLACK HEART BULLET',  code1: 'U+02765', code2: '&#x2765;', 
+    code3: '&#10085;', h1: '&#10085;', code4: '',},
+
+    {title: 'FLORAL HEART',  code1: 'U+02766', code2: '&#x2766;', 
+    code3: '&#10086;', h1: '&#10086;', code4: '',},
+
+    {title: 'ROTATED FLORAL HEART BULLET',  code1: 'U+02767', code2: '&#x2767;', 
+    code3: '&#10087;', h1: '&#10087;', code4: '',},
+
+    {title: 'MEDIUM LEFT PARENTHESIS ORNAMENT',  code1: 'U+02768', code2: '&#x2768;', 
+    code3: '&#10088;', h1: '&#10088;', code4: '',},
+
+    {title: 'MEDIUM RIGHT PARENTHESIS ORNAMENT',  code1: 'U+02769', code2: '&#x2769;', 
+    code3: '&#10089;', h1: '&#10089;', code4: '',},
+
+    {title: 'MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT',  code1: 'U+0276A', code2: '&#x276A;', 
+    code3: '&#10090;', h1: '&#10090;', code4: '',},
+
+    {title: 'MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT',  code1: 'U+0276B', code2: '&#x276B;', 
+    code3: '&#10091;', h1: '&#10091;', code4: '',},
+
+    {title: 'MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT',  code1: 'U+0276C', code2: '&#x276C;', 
+    code3: '&#10092;', h1: '&#10092;', code4: '',},
+
+    {title: 'MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT',  code1: 'U+0276D', code2: '&#x276D;', 
+    code3: '&#10093;', h1: '&#10093;', code4: '',},
+
+    {title: 'HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT',  code1: 'U+0276E', code2: '&#x276E;', 
+    code3: '&#10094;', h1: '&#10094;', code4: '',},
+
+    {title: 'HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT',  code1: 'U+0276F', code2: '&#x276F;', 
+    code3: '&#10095;', h1: '&#10095;', code4: '',},
+
+    {title: 'HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT',  code1: 'U+02770', code2: '&#x2770;', 
+    code3: '&#10096;', h1: '&#10096;', code4: '',},
+
+    {title: 'HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT',  code1: 'U+02771', code2: '&#x2771;', 
+    code3: '&#10097;', h1: '&#10097;', code4: '',},
+
+    {title: 'LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT',  code1: 'U+02772', code2: '&#x2772;', 
+    code3: '&#10098;', h1: '&#10098;', code4: '&lbbrk;',},
+
+    {title: 'LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT',  code1: 'U+02773', code2: '&#x2773;', 
+    code3: '&#10099;', h1: '&#10099;', code4: '&rbbrk;',},
+
+    {title: 'MEDIUM LEFT CURLY BRACKET ORNAMENT',  code1: 'U+02774', code2: '&#x2774;', 
+    code3: '&#10100;', h1: '&#10100;', code4: '',},
+
+    {title: 'MEDIUM RIGHT CURLY BRACKET ORNAMENT',  code1: 'U+02775', code2: '&#x2775;', 
+    code3: '&#10101;', h1: '&#10101;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT ONE',  code1: 'U+02776', code2: '&#x2776;', 
+    code3: '&#10102;', h1: '&#10102;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT TWO',  code1: 'U+02777', code2: '&#x2777;', 
+    code3: '&#10103;', h1: '&#10103;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT THREE',  code1: 'U+02778', code2: '&#x2778;', 
+    code3: '&#10104;', h1: '&#10104;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT FOUR',  code1: 'U+02779', code2: '&#x2779;', 
+    code3: '&#10105;', h1: '&#10105;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT FIVE',  code1: 'U+0277A', code2: '&#x277A;', 
+    code3: '&#10106;', h1: '&#10106;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT SIX',  code1: 'U+0277B', code2: '&#x277B;', 
+    code3: '&#10107;', h1: '&#10107;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT SEVEN',  code1: 'U+0277C', code2: '&#x277C;', 
+    code3: '&#10108;', h1: '&#10108;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT EIGHT',  code1: 'U+0277D', code2: '&#x277D;', 
+    code3: '&#10109;', h1: '&#10109;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED DIGIT NINE',  code1: 'U+0277E', code2: '&#x277E;', 
+    code3: '&#10110;', h1: '&#10110;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED NUMBER TEN',  code1: 'U+0277F', code2: '&#x277F;', 
+    code3: '&#10111;', h1: '&#10111;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT ONE',  code1: 'U+02780', code2: '&#x2780;', 
+    code3: '&#10112;', h1: '&#10112;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT TWO',  code1: 'U+02781', code2: '&#x2781;', 
+    code3: '&#10113;', h1: '&#10113;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT THREE',  code1: 'U+02782', code2: '&#x2782;', 
+    code3: '&#10114;', h1: '&#10114;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT FOUR',  code1: 'U+02783', code2: '&#x2783;', 
+    code3: '&#10115;', h1: '&#10115;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT FIVE',  code1: 'U+02784', code2: '&#x2784;', 
+    code3: '&#10116;', h1: '&#10116;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT SIX',  code1: 'U+02785', code2: '&#x2785;', 
+    code3: '&#10117;', h1: '&#10117;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN',  code1: 'U+02786', code2: '&#x2786;', 
+    code3: '&#10118;', h1: '&#10118;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT',  code1: 'U+02787', code2: '&#x2787;', 
+    code3: '&#10119;', h1: '&#10119;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF DIGIT NINE',  code1: 'U+02788', code2: '&#x2788;', 
+    code3: '&#10120;', h1: '&#10120;', code4: '',},
+
+    {title: 'DINGBAT CIRCLED SANS-SERIF NUMBER TEN',  code1: 'U+02789', code2: '&#x2789;', 
+    code3: '&#10121;', h1: '&#10121;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE',  code1: 'U+0278A', code2: '&#x278A;', 
+    code3: '&#10122;', h1: '&#10122;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO',  code1: 'U+0278B', code2: '&#x278B;', 
+    code3: '&#10123;', h1: '&#10123;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE',  code1: 'U+0278C', code2: '&#x278C;', 
+    code3: '&#10124;', h1: '&#10124;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR',  code1: 'U+0278D', code2: '&#x278D;', 
+    code3: '&#10125;', h1: '&#10125;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE',  code1: 'U+0278E', code2: '&#x278E;', 
+    code3: '&#10126;', h1: '&#10126;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX',  code1: 'U+0278F', code2: '&#x278F;', 
+    code3: '&#10127;', h1: '&#10127;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN',  code1: 'U+02790', code2: '&#x2790;', 
+    code3: '&#10128;', h1: '&#10128;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT',  code1: 'U+02791', code2: '&#x2791;', 
+    code3: '&#10129;', h1: '&#10129;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE',  code1: 'U+02792', code2: '&#x2792;', 
+    code3: '&#10130;', h1: '&#10130;', code4: '',},
+
+    {title: 'DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN',  code1: 'U+02793', code2: '&#x2793;', 
+    code3: '&#10131;', h1: '&#10131;', code4: '',},
+
+    {title: 'HEAVY WIDE-HEADED RIGHT ARROW',  code1: 'U+02794', code2: '&#x2794;', 
+    code3: '&#10132;', h1: '&#10132;', code4: '',},
+
+    {title: 'HEAVY SOUTH EAST ARROW',  code1: 'U+02798', code2: '&#x2798;', 
+    code3: '&#10136;', h1: '&#10136;', code4: '',},
+
+    {title: 'HEAVY RIGHT ARROW',  code1: 'U+02799', code2: '&#x2799;', 
+    code3: '&#10137;', h1: '&#10137;', code4: '',},
+
+    {title: 'HEAVY NORTH EAST ARROW',  code1: 'U+0279A', code2: '&#x279A;', 
+    code3: '&#10138;', h1: '&#10138;', code4: '',},
+
+    {title: 'DRAFTING POINT RIGHT ARROW',  code1: 'U+0279B', code2: '&#x279B;', 
+    code3: '&#10139;', h1: '&#10139;', code4: '',},
+
+    {title: 'HEAVY ROUND-TIPPED RIGHT ARROW',  code1: 'U+0279C', code2: '&#x279C;', 
+    code3: '&#10140;', h1: '&#10140;', code4: '',},
+
+    {title: 'TRIANGLE-HEADED RIGHT ARROW',  code1: 'U+0279D', code2: '&#x279D;', 
+    code3: '&#10141;', h1: '&#10141;', code4: '',},
+
+    {title: 'HEAVY TRIANGLE-HEADED RIGHT ARROW',  code1: 'U+0279E', code2: '&#x279E;', 
+    code3: '&#10142;', h1: '&#10142;', code4: '',},
+
+    {title: 'DASHED TRIANGLE-HEADED RIGHT ARROW',  code1: 'U+0279F', code2: '&#x279F;', 
+    code3: '&#10143;', h1: '&#10143;', code4: '',},
+
+    {title: 'HEAVY DASHED TRIANGLE-HEADED RIGHT ARROW',  code1: 'U+027A0', code2: '&#x27A0;', 
+    code3: '&#10144;', h1: '&#10144;', code4: '',},
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]
