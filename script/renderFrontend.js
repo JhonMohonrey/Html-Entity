@@ -793,6 +793,186 @@ let en = [
     {title: 'BALLOT X',  code1: 'U+02717', code2: '&#x2717;', 
     code3: '&#10007;', h1: '&#10007;', code4: '&cross;',},
 
+    {title: 'HEAVY BALLOT X',  code1: 'U+02718', code2: '&#x2718;', 
+    code3: '&#10008;', h1: '&#10008;', code4: '',},
+
+    {title: 'OUTLINED GREEK CROSS',  code1: 'U+02719', code2: '&#x2719;', 
+    code3: '&#10009;', h1: '&#10009;', code4: '',},
+
+    {title: 'HEAVY GREEK CROSS',  code1: 'U+0271A', code2: '&#x271A;', 
+    code3: '&#10010;', h1: '&#10010;', code4: '',},
+
+    {title: 'OPEN CENTRE CROSS',  code1: 'U+0271B', code2: '&#x271B;', 
+    code3: '&#10011;', h1: '&#10011;', code4: '',},
+
+    {title: 'HEAVY OPEN CENTRE CROSS',  code1: 'U+0271C', code2: '&#x271C;', 
+    code3: '&#10012;', h1: '&#10012;', code4: '',},
+
+    {title: 'LATIN CROSS',  code1: 'U+0271D', code2: '&#x271D;', 
+    code3: '&#10013;', h1: '&#10013;', code4: '',},
+
+    {title: 'SHADOWED WHITE LATIN CROSS',  code1: 'U+0271E', code2: '&#x271E;', 
+    code3: '&#10014;', h1: '&#10014;', code4: '',},
+
+    {title: 'OUTLINED LATIN CROSS',  code1: 'U+0271F', code2: '&#x271F;', 
+    code3: '&#10015;', h1: '&#10015;', code4: '',},
+
+    {title: 'MALTESE CROSS',  code1: 'U+02720', code2: '&#x2720;', 
+    code3: '&#10016;', h1: '&#10016;', code4: '&malt;',},
+
+    {title: 'STAR OF DAVID',  code1: 'U+02721', code2: '&#x2721;', 
+    code3: '&#10017;', h1: '&#10017;', code4: '',},
+
+    {title: 'FOUR TEARDROP-SPOKED ASTERISK',  code1: 'U+02722', code2: '&#x2722;', 
+    code3: '&#10018;', h1: '&#10018;', code4: '',},
+
+    {title: 'FOUR BALLOON-SPOKED ASTERISK',  code1: 'U+02723', code2: '&#x2723;', 
+    code3: '&#10019;', h1: '&#10019;', code4: '',},
+
+    {title: 'HEAVY FOUR BALLOON-SPOKED ASTERISK',  code1: 'U+02724', code2: '&#x2724;', 
+    code3: '&#10020;', h1: '&#10020;', code4: '',},
+
+    {title: 'FOUR CLUB-SPOKED ASTERISK',  code1: 'U+02725', code2: '&#x2725;', 
+    code3: '&#10021;', h1: '&#10021;', code4: '',},
+
+    {title: 'BLACK FOUR POINTED STAR',  code1: 'U+02726', code2: '&#x2726;', 
+    code3: '&#10022;', h1: '&#10022;', code4: '',},
+
+    {title: 'WHITE FOUR POINTED STAR',  code1: 'U+02727', code2: '&#x2727;', 
+    code3: '&#10023;', h1: '&#10023;', code4: '',},
+
+    {title: 'STRESS OUTLINED WHITE STAR',  code1: 'U+02729', code2: '&#x2729;', 
+    code3: '&#10025;', h1: '&#10025;', code4: '',},
+
+    {title: 'CIRCLED WHITE STAR',  code1: 'U+0272A', code2: '&#x272A;', 
+    code3: '&#10026;', h1: '&#10026;', code4: '',},
+
+    {title: 'OPEN CENTRE BLACK STAR',  code1: 'U+0272B', code2: '&#x272B;', 
+    code3: '&#10027;', h1: '&#10027;', code4: '',},
+
+    {title: 'BLACK CENTRE WHITE STAR',  code1: 'U+0272C', code2: '&#x272C;', 
+    code3: '&#10028;', h1: '&#10028;', code4: '',},
+
+    {title: 'OUTLINED BLACK STAR',  code1: 'U+0272D', code2: '&#x272D;', 
+    code3: '&#10029;', h1: '&#10029;', code4: '',},
+
+    {title: 'HEAVY OUTLINED BLACK STAR',  code1: 'U+0272E', code2: '&#x272E;', 
+    code3: '&#10030;', h1: '&#10030;', code4: '',},
+
+    {title: 'PINWHEEL STAR',  code1: 'U+0272F', code2: '&#x272F;', 
+    code3: '&#10031;', h1: '&#10031;', code4: '',},
+
+    {title: 'SHADOWED WHITE STAR',  code1: 'U+02730', code2: '&#x2730;', 
+    code3: '&#10032;', h1: '&#10032;', code4: '',},
+
+    {title: 'HEAVY ASTERISK',  code1: 'U+02731', code2: '&#x2731;', 
+    code3: '&#10033;', h1: '&#10033;', code4: '',},
+
+    {title: 'OPEN CENTRE ASTERISK',  code1: 'U+02732', code2: '&#x2732;', 
+    code3: '&#10034;', h1: '&#10034;', code4: '',},
+
+    {title: 'EIGHT SPOKED ASTERISK',  code1: 'U+02733', code2: '&#x2733;', 
+    code3: '&#10035;', h1: '&#10035;', code4: '',},
+
+    {title: 'EIGHT POINTED BLACK STAR',  code1: 'U+02734', code2: '&#x2734;', 
+    code3: '&#10036;', h1: '&#10036;', code4: '',},
+
+    {title: 'EIGHT POINTED PINWHEEL STAR',  code1: 'U+02735', code2: '&#x2735;', 
+    code3: '&#10037;', h1: '&#10037;', code4: '',},
+
+    {title: 'SIX POINTED BLACK STAR',  code1: 'U+02736', code2: '&#x2736;', 
+    code3: '&#10038;', h1: '&#10038;', code4: '&sext;',},
+
+    {title: 'EIGHT POINTED RECTILINEAR BLACK STAR',  code1: 'U+02737', code2: '&#x2737;', 
+    code3: '&#10039;', h1: '&#10039;', code4: '',},
+
+    {title: 'HEAVY EIGHT POINTED RECTILINEAR BLACK STAR',  code1: 'U+02738', code2: '&#x2738;', 
+    code3: '&#10040;', h1: '&#10040;', code4: '',},
+
+    {title: 'TWELVE POINTED BLACK STAR',  code1: 'U+02739', code2: '&#x2739;', 
+    code3: '&#10041;', h1: '&#10041;', code4: '',},
+
+    {title: 'SIXTEEN POINTED ASTERISK',  code1: 'U+0273A', code2: '&#x273A;', 
+    code3: '&#10042;', h1: '&#10042;', code4: '',},
+
+    {title: 'TEARDROP-SPOKED ASTERISK',  code1: 'U+0273B', code2: '&#x273B;', 
+    code3: '&#10043;', h1: '&#10043;', code4: '',},
+
+    {title: 'OPEN CENTRE TEARDROP-SPOKED ASTERISK',  code1: 'U+0273C', code2: '&#x273C;', 
+    code3: '&#10044;', h1: '&#10044;', code4: '',},
+
+    {title: 'HEAVY TEARDROP-SPOKED ASTERISK',  code1: 'U+0273D', code2: '&#x273D;', 
+    code3: '&#10045;', h1: '&#10045;', code4: '',},
+
+    {title: 'SIX PETALLED BLACK AND WHITE FLORETTE',  code1: 'U+0273E', code2: '&#x273E;', 
+    code3: '&#10046;', h1: '&#10046;', code4: '',},
+
+    {title: 'BLACK FLORETTE',  code1: 'U+0273F', code2: '&#x273F;', 
+    code3: '&#10047;', h1: '&#10047;', code4: '',},
+
+    {title: 'WHITE FLORETTE',  code1: 'U+02740', code2: '&#x2740;', 
+    code3: '&#10048;', h1: '&#10048;', code4: '',},
+
+    {title: 'EIGHT PETALLED OUTLINED BLACK FLORETTE',  code1: 'U+02741', code2: '&#x2741;', 
+    code3: '&#10049;', h1: '&#10049;', code4: '',},
+
+    {title: 'CIRCLED OPEN CENTRE EIGHT POINTED STAR',  code1: 'U+02742', code2: '&#x2742;', 
+    code3: '&#10050;', h1: '&#10050;', code4: '',},
+
+    {title: 'HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK',  code1: 'U+02743', code2: '&#x2743;', 
+    code3: '&#10051;', h1: '&#10051;', code4: '',},
+
+    {title: 'SNOWFLAKE',  code1: 'U+02744', code2: '&#x2744;', 
+    code3: '&#10052;', h1: '&#10052;', code4: '',},
+
+    {title: 'TIGHT TRIFOLIATE SNOWFLAKE',  code1: 'U+02745', code2: '&#x2745;', 
+    code3: '&#10053;', h1: '&#10053;', code4: '',},
+
+    {title: 'HEAVY CHEVRON SNOWFLAKE',  code1: 'U+02746', code2: '&#x2746;', 
+    code3: '&#10054;', h1: '&#10054;', code4: '',},
+
+    {title: 'SPARKLE',  code1: 'U+02747', code2: '&#x2747;', 
+    code3: '&#10055;', h1: '&#10055;', code4: '',},
+
+    {title: 'HEAVY SPARKLE',  code1: 'U+02748', code2: '&#x2748;', 
+    code3: '&#10056;', h1: '&#10056;', code4: '',},
+
+    {title: 'BALLOON-SPOKED ASTERISK',  code1: 'U+02749', code2: '&#x2749;', 
+    code3: '&#10057;', h1: '&#10057;', code4: '',},
+
+    {title: 'EIGHT TEARDROP-SPOKED PROPELLER ASTERISK',  code1: 'U+0274A', code2: '&#x274A;', 
+    code3: '&#10058;', h1: '&#10058;', code4: '',},
+
+    {title: 'HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK',  code1: 'U+0274B', code2: '&#x274B;', 
+    code3: '&#10059;', h1: '&#10059;', code4: '',},
+
+    {title: 'SHADOWED WHITE CIRCLE',  code1: 'U+0274D', code2: '&#x274D;', 
+    code3: '&#10061;', h1: '&#10061;', code4: '',},
+
+    {title: 'LOWER RIGHT DROP-SHADOWED WHITE SQUARE',  code1: 'U+0274F', code2: '&#x274F;', 
+    code3: '&#10063;', h1: '&#10063;', code4: '',},
+
+    {title: 'UPPER RIGHT DROP-SHADOWED WHITE SQUARE',  code1: 'U+02750', code2: '&#x2750;', 
+    code3: '&#10064;', h1: '&#10064;', code4: '',},
+
+    {title: 'LOWER RIGHT SHADOWED WHITE SQUARE',  code1: 'U+02751', code2: '&#x2751;', 
+    code3: '&#10065;', h1: '&#10065;', code4: '',},
+
+    {title: 'UPPER RIGHT SHADOWED WHITE SQUARE',  code1: 'U+02752', code2: '&#x2752;', 
+    code3: '&#10066;', h1: '&#10066;', code4: '',},
+
+    {title: 'BLACK DIAMOND MINUS WHITE X',  code1: 'U+02756', code2: '&#x2756;', 
+    code3: '&#10070;', h1: '&#10070;', code4: '',},
+
+    {title: 'LIGHT VERTICAL BAR',  code1: 'U+02758', code2: '&#x2758;', 
+    code3: '&#10072;', h1: '&#10072;', code4: '&VerticalSeparator;',},
+
+    {title: 'MEDIUM VERTICAL BAR',  code1: 'U+02759', code2: '&#x2759;', 
+    code3: '&#10073;', h1: '&#10073;', code4: '',},
+
+    {title: 'HEAVY VERTICAL BAR',  code1: 'U+0275A', code2: '&#x275A;', 
+    code3: '&#10074;', h1: '&#10074;', code4: '',},
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]
