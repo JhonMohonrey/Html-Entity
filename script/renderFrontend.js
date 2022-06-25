@@ -1168,6 +1168,94 @@ let en = [
     {title: 'HEAVY DASHED TRIANGLE-HEADED RIGHT ARROW',  code1: 'U+027A0', code2: '&#x27A0;', 
     code3: '&#10144;', h1: '&#10144;', code4: '',},
 
+    {title: 'BLACK RIGHT ARROW',  code1: 'U+027A1', code2: '&#x27A1;', 
+    code3: '&#10145;', h1: '&#10145;', code4: '',},
+
+    {title: 'THREE-D TOP-LIGHTED RIGHT ARROWHEAD',  code1: 'U+027A2', code2: '&#x27A2;', 
+    code3: '&#10146;', h1: '&#10146;', code4: '',},
+
+    {title: 'THREE-D BOTTOM-LIGHTED RIGHT ARROWHEAD',  code1: 'U+027A3', code2: '&#x27A3;', 
+    code3: '&#10147;', h1: '&#10147;', code4: '',},
+
+    {title: 'BLACK RIGHT ARROWHEAD',  code1: 'U+027A4', code2: '&#x27A4;', 
+    code3: '&#10148;', h1: '&#10148;', code4: '',},
+
+    {title: 'HEAVY BLACK CURVED DOWN AND RIGHT ARROW',  code1: 'U+027A5', code2: '&#x27A5;', 
+    code3: '&#10149;', h1: '&#10149;', code4: '',},
+
+    {title: 'HEAVY BLACK CURVED UP AND RIGHT ARROW',  code1: 'U+027A6', code2: '&#x27A6;', 
+    code3: '&#10150;', h1: '&#10150;', code4: '',},
+
+    {title: 'SQUAT BLACK RIGHT ARROW',  code1: 'U+027A7', code2: '&#x27A7;', 
+    code3: '&#10151;', h1: '&#10151;', code4: '',},
+
+    {title: 'HEAVY CONCAVE-POINTED BLACK RIGHT ARROW',  code1: 'U+027A8', code2: '&#x27A8;', 
+    code3: '&#10152;', h1: '&#10152;', code4: '',},
+
+    {title: 'RIGHT-SHADED WHITE RIGHT ARROW',  code1: 'U+027A9', code2: '&#x27A9;', 
+    code3: '&#10153;', h1: '&#10153;', code4: '',},
+
+    {title: 'LEFT-SHADED WHITE RIGHT ARROW',  code1: 'U+027AA', code2: '&#x27AA;', 
+    code3: '&#10154;', h1: '&#10154;', code4: '',},
+
+    {title: 'BACK-TILTED SHADOWED WHITE RIGHT ARROW',  code1: 'U+027AB', code2: '&#x27AB;', 
+    code3: '&#10155;', h1: '&#10155;', code4: '',},
+
+    {title: 'FRONT-TILTED SHADOWED WHITE RIGHT ARROW',  code1: 'U+027AC', code2: '&#x27AC;', 
+    code3: '&#10156;', h1: '&#10156;', code4: '',},
+
+    {title: 'HEAVY LOWER RIGHT-SHADOWED WHITE RIGHT ARROW',  code1: 'U+027AD', code2: '&#x27AD;', 
+    code3: '&#10157;', h1: '&#10157;', code4: '',},
+
+    {title: 'HEAVY UPPER RIGHT-SHADOWED WHITE RIGHT ARROW',  code1: 'U+027AE', code2: '&#x27AE;', 
+    code3: '&#10158;', h1: '&#10158;', code4: '',},
+
+    {title: 'NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHT ARROW',  code1: 'U+027AF', code2: '&#x27AF;', 
+    code3: '&#10159;', h1: '&#10159;', code4: '',},
+
+    {title: 'NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHT ARROW',  code1: 'U+027B1', code2: '&#x27B1;', 
+    code3: '&#10161;', h1: '&#10161;', code4: '',},
+
+    {title: 'CIRCLED HEAVY WHITE RIGHT ARROW',  code1: 'U+027B2', code2: '&#x27B2;', 
+    code3: '&#10162;', h1: '&#10162;', code4: '',},
+
+    {title: 'WHITE-FEATHERED RIGHT ARROW',  code1: 'U+027B3', code2: '&#x27B3;', 
+    code3: '&#10163;', h1: '&#10163;', code4: '',},
+
+    {title: 'BLACK-FEATHERED SOUTH EAST ARROW',  code1: 'U+027B4', code2: '&#x27B4;', 
+    code3: '&#10164;', h1: '&#10164;', code4: '',},
+
+    {title: 'BLACK-FEATHERED RIGHT ARROW',  code1: 'U+027B5', code2: '&#x27B5;', 
+    code3: '&#10165;', h1: '&#10165;', code4: '',},
+
+    {title: 'BLACK-FEATHERED NORTH EAST ARROW',  code1: 'U+027B6', code2: '&#x27B6;', 
+    code3: '&#10166;', h1: '&#10166;', code4: '',},
+
+    {title: 'HEAVY BLACK-FEATHERED SOUTH EAST ARROW',  code1: 'U+027B7', code2: '&#x27B7;', 
+    code3: '&#10167;', h1: '&#10167;', code4: '',},
+
+    {title: 'HEAVY BLACK-FEATHERED RIGHT ARROW',  code1: 'U+027B8', code2: '&#x27B8;', 
+    code3: '&#10168;', h1: '&#10168;', code4: '',},
+
+    {title: 'HEAVY BLACK-FEATHERED NORTH EAST ARROW',  code1: 'U+027B9', code2: '&#x27B9;', 
+    code3: '&#10169;', h1: '&#10169;', code4: '',},
+
+    {title: 'TEARDROP-BARBED RIGHT ARROW',  code1: 'U+027BA', code2: '&#x27BA;', 
+    code3: '&#10170;', h1: '&#10170;', code4: '',},
+
+    {title: 'HEAVY TEARDROP-SHANKED RIGHT ARROW',  code1: 'U+027BB', code2: '&#x27BB;', 
+    code3: '&#10171;', h1: '&#10171;', code4: '',},
+
+    {title: 'WEDGE-TAILED RIGHT ARROW',  code1: 'U+027BC', code2: '&#x27BC;', 
+    code3: '&#10172;', h1: '&#10172;', code4: '',},
+
+    {title: 'HEAVY WEDGE-TAILED RIGHT ARROW',  code1: 'U+027BD', code2: '&#x27BD;', 
+    code3: '&#10173;', h1: '&#10173;', code4: '',},
+
+    {title: 'OPEN-OUTLINED RIGHT ARROW',  code1: 'U+027BE', code2: '&#x27BE;', 
+    code3: '&#10174;', h1: '&#10174;', code4: '',},
+
+
     // {title: '',  code1: '', code2: '', 
     // code3: '', h1: '', code4: '',},
 ]

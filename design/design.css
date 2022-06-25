@@ -78,6 +78,9 @@ body {
   height: 100%;
   -webkit-column-gap: 15px;
           column-gap: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .header .header-container .right-header-hide div, .header .header-container .right-header div {
@@ -100,6 +103,11 @@ body {
 .header .header-container .right-header-hide div:hover, .header .header-container .right-header div:hover {
   cursor: pointer;
   background: var(--header-hover-color);
+}
+
+.header .header-container .right-header-hide .active, .header .header-container .right-header .active {
+  height: 80%;
+  border-bottom: 5px solid white;
 }
 
 .header .header-container .right-header-hide .exit-btn, .header .header-container .right-header .exit-btn {

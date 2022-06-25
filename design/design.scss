@@ -70,6 +70,7 @@ body {
             display: flex;
             height: 100%;
             column-gap: 15px;
+            align-items: center;
 
             div {
                 padding: 0px 5px;
@@ -80,13 +81,18 @@ body {
                 a {
                     font-family: arial;
                     text-decoration: none;
-                    color: white;
+                    color: rgb(255, 255, 255);
                 }
 
                 &:hover {
                     cursor: pointer;
                     background: var(--header-hover-color);
                 }
+            }
+
+            .active {
+                height: 80%;
+                border-bottom: 5px solid white;
             }
 
             .exit-btn {
