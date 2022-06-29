@@ -1,0 +1,74 @@
+:root {
+  --text-color: rgb(210, 0, 233);
+  --header-color: #000000;
+}
+
+.header {
+  background: var(--header-color);
+  min-width: 992px;
+  width: 100%;
+}
+
+.header .header-container {
+  background: var(--header-color);
+  width: 85%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-width: 992px;
+}
+
+.header .header-container .home-page a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-family: arial;
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+.header .header-container .home-page a .com {
+  font-size: 18px;
+  color: var(--text-color);
+}
+
+.header .header-container .menu {
+  display: none;
+}
+
+.header .header-container .right-header-hide {
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .header-container .right-header-hide div {
+  padding: 15px 5px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.header .header-container .right-header-hide div a {
+  text-decoration: none;
+  color: black;
+  font-family: arial;
+  font-weight: bold;
+  color: white;
+}
+
+.header .header-container .right-header-hide #active-box {
+  border-bottom: 5px solid var(--text-color);
+}
+
+.header .header-container .right-header-hide #active-box a {
+  color: var(--text-color);
+}
+/*# sourceMappingURL=style.css.map */
