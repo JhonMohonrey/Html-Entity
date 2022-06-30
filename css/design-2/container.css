@@ -14,7 +14,7 @@
   position: absolute;
   inset: 0;
   background-color: black;
-  background-image: url(/img/final.png);
+  background-image: url(../img/final.png);
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
