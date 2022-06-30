@@ -7,7 +7,12 @@
     background: var(--header-color);
     min-width: 992px;
     width: 100%;
-    
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 50px;
+   
 
     .header-container {
         background: var(--header-color);

@@ -1,0 +1,41 @@
+.container {
+    width: 85%;
+    margin: 0 auto;
+    min-width: 992px;
+    height: 300px;
+    margin-top: 50px;
+    display: flex;
+    position: relative;
+
+    .bg {
+        position: absolute;
+        inset: 0;
+        background-color: rgb(0, 0, 0);
+        background-image: url(/img/final.png);
+        background-position: left;
+        background-size: contain;
+        background-repeat: no-repeat;
+        z-index: -1;
+    }
+
+    .left-side, .right-side {
+        flex: 1;
+        margin: 10px;
+    }
+
+    .left-side { //take note: this is a test it could be an img not a text
+
+        h1 {
+            margin: 0;
+            padding: 0;
+            font-family: arial;
+        }
+
+        p {
+            margin-top: 150px;
+            font-family: arial;
+            font-size: 18px;
+            color: rgb(255, 255, 255);
+        }
+    }
+}
