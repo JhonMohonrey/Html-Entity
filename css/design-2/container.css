@@ -8,13 +8,14 @@
   display: -ms-flexbox;
   display: flex;
   position: relative;
+  color: white;
 }
 
 .container .bg {
   position: absolute;
   inset: 0;
   background-color: black;
-  background-image: url(../img/final.png);
+  background-image: url(../img/test2.png);
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
@@ -28,16 +29,190 @@
   margin: 10px;
 }
 
-.container .left-side h1 {
-  margin: 0;
-  padding: 0;
+.container .left-side .glow {
+  margin-top: 195px;
+  font-size: 15px;
+  color: #fff;
+  max-width: 750px;
+  text-shadow: 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow);
   font-family: arial;
 }
 
-.container .left-side p {
-  margin-top: 150px;
-  font-family: arial;
-  font-size: 18px;
+:root {
+  --text-shadow: rgb(255, 0, 238);
+}
+
+.container-2 {
+  width: 85%;
+  margin: 0 auto;
+  min-width: 992px;
+  max-width: 2000px;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
   color: white;
+}
+
+.container-2 .right-scroll {
+  width: 60%;
+  max-height: 3000px;
+  overflow: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  row-gap: 30px;
+  -webkit-column-gap: 30px;
+          column-gap: 30px;
+  padding: 0;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
+.container-2 .right-scroll .boxes {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 0 10px violet, 0 0 10px violet;
+          box-shadow: 0 0 10px violet, 0 0 10px violet;
+  border: 2px solid white;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+}
+
+.container-2 .right-scroll .boxes:hover {
+  -webkit-box-shadow: 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet;
+          box-shadow: 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet;
+}
+
+.container-2 .right-scroll .boxes h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 800%;
+  text-shadow: 0 0 10px violet, 0 0 10px violet;
+  -webkit-animation: h1 .5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes h1 {
+  from {
+    text-shadow: 0 0 10px violet, 0 0 10px violet;
+  }
+  to {
+    text-shadow: 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet;
+  }
+}
+
+.container-2 .right-scroll .boxes .count {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-family: arial;
+  background-color: white;
+  width: auto;
+  border-radius: 5px;
+  padding: 2px 5px;
+  color: black;
+  font-weight: bold;
+  -webkit-box-shadow: 0 0 10px violet, 0 0 10px violet;
+          box-shadow: 0 0 10px violet, 0 0 10px violet;
+}
+
+.container-2 .left-scroll {
+  background: black;
+  min-width: 40%;
+  width: auto;
+  margin-top: 15px;
+}
+
+.container-2 .left-scroll .box-1 {
+  background: black;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin: 10px;
+  height: auto;
+  -webkit-box-shadow: 0 0 12px violet, 0 0 12px violet, 0 0 12px violet;
+          box-shadow: 0 0 12px violet, 0 0 12px violet, 0 0 12px violet;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 60px;
+}
+
+.container-2 .left-scroll .box-1 h5 {
+  margin: 0;
+  font-family: arial;
+  text-align: center;
+  font-size: 28px;
+  color: white;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-shadow: 0 0 5px violet, 0 0 5px violet;
+}
+
+.container-2 .left-scroll .box-1 h4 {
+  color: white;
+  font-family: arial;
+  text-align: center;
+  font-size: 20px;
+  text-shadow: 0 0 5px violet, 0 0 5px violet;
+}
+
+.container-2 .left-scroll .box-1 p {
+  margin: 5px 0;
+  font-family: arial;
+  color: white;
+  text-shadow: 0 0 5px violet, 0 0 5px violet, 0 0 5px violet;
+  text-align: center;
+  font-size: 10px;
+  opacity: .8;
+}
+
+.container-2 .left-scroll .box-1 .line {
+  border: none;
+  background: violet;
+  height: 2px;
+  -webkit-box-shadow: 0 0 10px violet;
+          box-shadow: 0 0 10px violet;
+}
+
+.container-2 .left-scroll .box-1 .render {
+  margin: 0;
+  font-size: 180px;
+  color: white;
+  text-align: center;
+  -webkit-animation: render .5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes render {
+  from {
+    text-shadow: 0 0 8px violet, 0 0 8px violet, 0 0 8px violet;
+  }
+  to {
+    text-shadow: 0 0 18px violet, 0 0 18px violet;
+  }
+}
+
+.container-3 {
+  background-color: #40002c;
+  width: 85%;
+  margin: 0 auto;
+  min-width: 992px;
+  max-width: 2000px;
+  height: 100px;
 }
 /*# sourceMappingURL=container.css.map */

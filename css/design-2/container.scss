@@ -6,12 +6,14 @@
     margin-top: 50px;
     display: flex;
     position: relative;
+    color: white;
 
     .bg {
         position: absolute;
         inset: 0;
         background-color: rgb(0, 0, 0);
-        background-image: url(../img/final.png);
+        // border-bottom: 2px solid red;
+        background-image: url(../img/test2.png);
         background-position: left;
         background-size: contain;
         background-repeat: no-repeat;
@@ -25,17 +27,183 @@
 
     .left-side { //take note: this is a test it could be an img not a text
 
-        h1 {
-            margin: 0;
-            padding: 0;
+        .glow {
+            margin-top: 195px;
+            font-size: 15px;
+            color: #fff;
+            max-width: 750px;
+            text-shadow: 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow), 0px 0px 5px var(--text-shadow),;
             font-family: arial;
-        }
 
-        p {
-            margin-top: 150px;
-            font-family: arial;
-            font-size: 18px;
-            color: rgb(255, 255, 255);
         }
     }
+}
+
+:root {
+    --text-shadow: rgb(255, 0, 238);
+}
+
+.container-2 {
+    width: 85%;
+    margin: 0 auto;
+    min-width: 992px;
+    max-width: 2000px;
+    height: auto;
+    display: flex;
+    position: relative;
+    color: white;
+
+   
+
+    .right-scroll {
+        width: 60%;
+        max-height: 3000px;
+        overflow: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        row-gap: 30px;
+        column-gap: 30px;
+        padding: 0;
+        padding-top: 25px;
+        padding-bottom: 15px;
+
+
+        .boxes {
+            background-color: rgb(0, 0, 0);
+            width: 200px;
+            height: 200px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px violet, 0 0 10px violet,;
+            border: 2px solid white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+
+            &:hover {
+                box-shadow: 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet,;
+
+            }
+
+            h1 {
+                margin: 0;
+                text-align: center;
+                font-size: 800%;
+                text-shadow: 0 0 10px violet, 0 0 10px violet,;
+                -webkit-animation: h1 .5s ease-in-out infinite alternate;
+            }
+
+            @-webkit-keyframes h1 {
+                from {
+                    text-shadow: 0 0 10px violet, 0 0 10px violet,;
+                }
+
+                to {
+                    text-shadow:  0 0 10px violet, 0 0 10px violet, 0 0 10px violet, 0 0 10px violet,;
+                }
+            }
+
+            .count {
+                position: absolute;
+                bottom: 10px;
+                right: 10px;
+                font-family: arial;
+                background-color: rgb(255, 255, 255);
+                width: auto;
+                border-radius: 5px;
+                padding: 2px 5px;
+                color: black;
+                font-weight: bold;
+                box-shadow: 0 0 10px violet, 0 0 10px violet,;
+            }
+        }
+    }
+
+    .left-scroll {
+        background: rgb(0, 0, 0);
+        // width: 40%;
+        min-width: 40%;
+        width: auto;
+        margin-top: 15px;
+
+        .box-1 {
+            background: rgb(0, 0, 0);
+            border: 2px solid rgb(255, 255, 255);
+            border-radius: 10px;
+            margin: 10px;
+            height: auto;
+            box-shadow: 0 0 12px violet, 0 0 12px violet, 0 0 12px violet,;
+            position: sticky;
+            top: 60px;
+
+            h5 {
+                margin: 0;
+                font-family: arial;
+                text-align: center;
+                font-size: 28px;
+                color: rgb(255, 255, 255);
+                flex-wrap: wrap;
+                text-shadow: 0 0 5px violet, 0 0 5px violet,;
+            }
+
+            h4 {
+                color: rgb(255, 255, 255);
+                font-family: arial;
+                text-align: center;
+                font-size: 20px;
+                text-shadow: 0 0 5px violet, 0 0 5px violet,;
+            }
+
+            p {
+                margin: 5px 0;
+                font-family: arial;
+                color: rgb(255, 255, 255);
+                text-shadow: 0 0 5px violet, 0 0 5px violet, 0 0 5px violet,;
+                text-align: center;
+                font-size: 10px;
+                opacity: .8;
+            }
+
+            .line {
+                border: none;
+                background: violet;
+                height: 2px;
+                box-shadow: 0 0 10px violet;
+            }
+
+            .render {
+                margin: 0;
+                font-size: 180px;
+                color: rgb(255, 255, 255);
+                // text-shadow: 0 0 10px violet, 0 0 10px violet, 0 0 10px violet,;
+                text-align: center;
+                -webkit-animation: render .5s ease-in-out infinite alternate;
+            }
+
+            @-webkit-keyframes render {
+                from {
+                    text-shadow: 0 0 8px violet, 0 0 8px violet, 0 0 8px violet,;
+                }
+            
+                to {
+                    text-shadow: 0 0 18px violet, 0 0 18px violet,;
+                }
+            
+            }
+           
+
+        
+        }
+    }
+}
+
+.container-3 {
+    background-color: rgb(64, 0, 44);
+    width: 85%;
+    margin: 0 auto;
+    min-width: 992px;
+    max-width: 2000px;
+    height: 100px;
 }

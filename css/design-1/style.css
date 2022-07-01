@@ -12,6 +12,7 @@
   right: 0;
   top: 0;
   height: 50px;
+  z-index: 9999;
 }
 
 .header .header-container {
@@ -66,7 +67,7 @@
   color: black;
   font-family: arial;
   font-weight: bold;
-  color: white;
+  color: violet;
 }
 
 .header .header-container .right-header-hide #active-box {
@@ -74,6 +75,7 @@
 }
 
 .header .header-container .right-header-hide #active-box a {
-  color: var(--text-color);
+  color: white;
+  text-shadow: 0 0 4px violet, 0 0 4px violet, 0 0 4px violet;
 }
 /*# sourceMappingURL=style.css.map */
