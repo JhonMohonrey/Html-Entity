@@ -13,7 +13,7 @@
         inset: 0;
         background-color: rgb(0, 0, 0);
         // border-bottom: 2px solid red;
-        background-image: url(../img/test2.png);
+        background-image: url(../img/img.png);
         background-position: left;
         background-size: contain;
         background-repeat: no-repeat;
@@ -22,13 +22,16 @@
 
     .left-side, .right-side {
         flex: 1;
-        margin: 10px;
     }
 
     .left-side { //take note: this is a test it could be an img not a text
+        // background: pink;
+        // opacity: .5;
+        position: relative;
 
         .glow {
-            margin-top: 195px;
+            margin-top: 220px;
+            margin-left: 10px;
             font-size: 15px;
             color: #fff;
             max-width: 750px;
@@ -37,6 +40,11 @@
 
         }
     }
+
+    // .right-side {
+    //     background-color: pink;
+    //     opacity: .5;
+    // }
 }
 
 :root {
@@ -57,7 +65,7 @@
 
     .right-scroll {
         width: 60%;
-        max-height: 3000px;
+        // max-height: 3000px;
         overflow: auto;
         display: flex;
         justify-content: center;
@@ -71,8 +79,8 @@
 
         .boxes {
             background-color: rgb(0, 0, 0);
-            width: 200px;
-            height: 200px;
+            width: 150px;
+            height: 150px;
             border-radius: 15px;
             box-shadow: 0 0 10px violet, 0 0 10px violet,;
             border: 2px solid white;
@@ -90,7 +98,7 @@
             h1 {
                 margin: 0;
                 text-align: center;
-                font-size: 800%;
+                font-size: 700%;
                 text-shadow: 0 0 10px violet, 0 0 10px violet,;
                 -webkit-animation: h1 .5s ease-in-out infinite alternate;
             }

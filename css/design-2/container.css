@@ -15,7 +15,7 @@
   position: absolute;
   inset: 0;
   background-color: black;
-  background-image: url(../img/test2.png);
+  background-image: url(../img/img.png);
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
@@ -26,11 +26,15 @@
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  margin: 10px;
+}
+
+.container .left-side {
+  position: relative;
 }
 
 .container .left-side .glow {
-  margin-top: 195px;
+  margin-top: 220px;
+  margin-left: 10px;
   font-size: 15px;
   color: #fff;
   max-width: 750px;
@@ -57,7 +61,6 @@
 
 .container-2 .right-scroll {
   width: 60%;
-  max-height: 3000px;
   overflow: auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -77,8 +80,8 @@
 
 .container-2 .right-scroll .boxes {
   background-color: black;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 15px;
   -webkit-box-shadow: 0 0 10px violet, 0 0 10px violet;
           box-shadow: 0 0 10px violet, 0 0 10px violet;
@@ -104,7 +107,7 @@
 .container-2 .right-scroll .boxes h1 {
   margin: 0;
   text-align: center;
-  font-size: 800%;
+  font-size: 700%;
   text-shadow: 0 0 10px violet, 0 0 10px violet;
   -webkit-animation: h1 .5s ease-in-out infinite alternate;
 }

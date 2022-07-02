@@ -1,0 +1,57 @@
+@media only screen and (max-width: 992px) {
+  .header {
+    min-width: 688px;
+  }
+  .header .header-container {
+    width: 100%;
+    min-width: 688px;
+  }
+  .header .header-container .right-header-hide div {
+    margin-right: 10px;
+  }
+  .header .header-container .right-header-hide div a {
+    font-size: 12px;
+  }
+  .container {
+    min-width: 699px;
+    width: 90%;
+  }
+  .container .bg {
+    background-image: url(../img/992.png);
+  }
+  .container .left-side .glow {
+    font-size: 12px;
+    margin-top: 230px;
+    margin-left: 10px;
+  }
+  .container-2 {
+    min-width: 699px;
+    width: 90%;
+  }
+  .container-2 .right-scroll {
+    row-gap: 20px;
+    -webkit-column-gap: 20px;
+            column-gap: 20px;
+  }
+  .container-2 .right-scroll .boxes {
+    width: 120px;
+    height: 120px;
+  }
+  .container-2 .right-scroll .boxes h1 {
+    font-size: 450%;
+  }
+  .container-2 .left-scroll .box-1 h5 {
+    font-size: 20px;
+  }
+  .container-2 .left-scroll .box-1 h4 {
+    font-size: 15px;
+  }
+  .container-2 .left-scroll .box-1 p {
+    font-size: 8px;
+  }
+  .container-3 {
+    min-width: 699px;
+    max-width: 992px;
+  }
+}
+/*# sourceMappingURL=media992.css.map */

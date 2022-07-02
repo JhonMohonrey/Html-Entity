@@ -1,0 +1,81 @@
+@media only screen and (max-width: 992px) {
+    .header {
+        min-width: 688px;
+
+        .header-container {
+            width: 100%;
+            min-width: 688px;
+
+            .right-header-hide {
+
+                div {
+                    margin-right: 10px;
+
+                    a {
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+
+    .container {
+        min-width: 699px;
+        width: 90%;
+
+        .bg {
+            background-image: url(../img/992.png);
+        }
+
+        .left-side {
+
+            .glow {
+                font-size: 12px;
+                margin-top: 230px;
+                margin-left: 10px;
+            }
+        }
+    }
+
+    .container-2 {
+        min-width: 699px;
+        width: 90%;
+
+        .right-scroll {
+            row-gap: 20px;
+            column-gap: 20px;
+
+            .boxes {
+                width: 120px;
+                height: 120px;
+
+                h1 {
+                    font-size: 450%;
+                }
+            }
+        }
+
+        .left-scroll {
+
+            .box-1 {
+
+                h5 {
+                    font-size: 20px;
+                }
+
+                h4 {
+                    font-size: 15px;
+                }
+
+                p {
+                    font-size: 8px;
+                }
+            }
+        }
+    }
+
+    .container-3 {
+        min-width: 699px;
+        max-width: 992px;
+    }
+}
