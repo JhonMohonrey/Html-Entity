@@ -210,6 +210,10 @@
   }
 }
 
+.container-2 .left-scroll .box-1 .mobile-exit {
+  display: none;
+}
+
 .container-3 {
   background-color: #40002c;
   width: 85%;

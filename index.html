@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="./css/design-1/style.css"> <!-- Design for deader -->
     <link rel="stylesheet" href="./css/design-2/container.css"> <!-- Design for container -->
     <link rel="stylesheet" href="./css/design-3/media992.css"> <!-- tablet -->
-    <link rel="stylesheet" href="./css/design-4/@media1312.css"> <!-- PC -->
+    <link rel="stylesheet" href="./css/design-4/688.css"> <!-- Cellphone -->
     <script src="./Script/script.js" defer></script>
+    <script src="./Script/menu.js" defer></script>
 </head>
 <body>
     <header class="header">
@@ -19,9 +20,9 @@
                 <a href="../index.html">Syntax<span class="com">.com</span></a>
             </div>
 
-            <button class="menu">menu</button>
+            <button class="menu" onclick="menu()">&#x2630;</button>
  
-            <div class="right-header-hide">
+            <div class="right-header-hide ">
                 <div id="active-box">
                     <a href="./index.html">Symbols</a>
                 </div>
@@ -77,6 +78,7 @@
 
         <div class="left-scroll">
             <div class="box-1">
+                <button class="mobile-exit" onclick="mobileExit()">&#x2716;</button>
                     <h1 class="render">&#169;</h1>
                     <h4 id="title">COPYRIGHT SIGN</h4>
                 <hr class="line" id="line-1">

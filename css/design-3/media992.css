@@ -49,6 +49,9 @@
   .container-2 .left-scroll .box-1 p {
     font-size: 8px;
   }
+  .container-2 .left-scroll .box-1 .mobile-exit {
+    display: none;
+  }
   .container-3 {
     min-width: 699px;
     max-width: 992px;
